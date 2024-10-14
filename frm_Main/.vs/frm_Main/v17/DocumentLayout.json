@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\user\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\user\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -38,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
               "RelativeDocumentMoniker": "frm_Main\\Program.cs",
@@ -55,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frm_default.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs",
               "RelativeDocumentMoniker": "frm_Main\\frm_default.cs",
@@ -68,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frm_Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Home.cs",
@@ -77,6 +81,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T12:15:37.108Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Form2.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Form2.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:17:15.154Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Form1.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Form1.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frm_Home.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Home.Designer.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frm_default.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs",
               "RelativeDocumentMoniker": "frm_Main\\frm_default.cs",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frm_default.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.Designer.cs",
               "RelativeDocumentMoniker": "frm_Main\\frm_default.Designer.cs",
