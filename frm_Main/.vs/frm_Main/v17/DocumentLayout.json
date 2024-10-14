@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -64,8 +64,7 @@
               "ViewState": "AgIAACkAAAAAAAAAAAAiwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T15:56:22.658Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -77,20 +76,7 @@
               "RelativeToolTip": "frm_Main\\child_Form\\frm_Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T12:15:37.108Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Form1.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Form1.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:08:50.299Z",
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -106,6 +92,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Form1.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Form1.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:08:50.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "frm_Home.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "frm_Main\\child_Form\\frm_Home.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:16:05.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T12:16:05.828Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs [Design]",
               "RelativeToolTip": "frm_Main\\frm_default.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:00:39.444Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-11T09:00:39.444Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "frm_Main\\frm_default.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:59:25.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T11:59:25.215Z"
             }
           ]
         }
