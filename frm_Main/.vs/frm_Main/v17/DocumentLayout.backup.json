@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\frm_Main\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\hp\\source\\repos\\frm_main\\frm_main\\child_form\\frm_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\hp\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\frm_storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\frm_storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\hp\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\frm_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\frm_home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_Main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_main\\child_form\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_Main\\frm_default.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,11 +42,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
               "RelativeDocumentMoniker": "frm_Main\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
               "RelativeToolTip": "frm_Main\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +55,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frm_default.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs",
               "RelativeDocumentMoniker": "frm_Main\\frm_default.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs",
               "RelativeToolTip": "frm_Main\\frm_default.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAiwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -64,12 +68,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frm_Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Home.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\frm_Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T12:15:37.108Z",
               "IsPinned": true
@@ -77,10 +81,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frm_Storage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Storage.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Storage.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Storage.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\frm_Storage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:43:44.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "frm_Home.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Home.Designer.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\frm_Home.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,22 +105,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frm_default.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs",
               "RelativeDocumentMoniker": "frm_Main\\frm_default.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs [Design]",
-              "RelativeToolTip": "frm_Main\\frm_default.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T09:00:39.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frm_default.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.Designer.cs",
               "RelativeDocumentMoniker": "frm_Main\\frm_default.Designer.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.Designer.cs",
               "RelativeToolTip": "frm_Main\\frm_default.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
