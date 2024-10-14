@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\frm_Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_Main\\child_Form\\frm_Home.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_Main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_main\\child_form\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_main\\child_form\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_Main\\frm_default.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\Program.cs",
+              "RelativeDocumentMoniker": "frm_Main\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\Program.cs",
+              "RelativeToolTip": "frm_Main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:01:49.884Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_default.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs",
+              "RelativeDocumentMoniker": "frm_Main\\frm_default.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs",
+              "RelativeToolTip": "frm_Main\\frm_default.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:56:22.658Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Home.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\frm_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:15:37.108Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Home.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\child_Form\\frm_Home.Designer.cs",
+              "RelativeToolTip": "frm_Main\\child_Form\\frm_Home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T12:16:05.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_default.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs",
+              "RelativeDocumentMoniker": "frm_Main\\frm_default.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.cs [Design]",
+              "RelativeToolTip": "frm_Main\\frm_default.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:00:39.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_default.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.Designer.cs",
+              "RelativeDocumentMoniker": "frm_Main\\frm_default.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\frm_Main\\frm_Main\\frm_default.Designer.cs",
+              "RelativeToolTip": "frm_Main\\frm_default.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:59:25.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
