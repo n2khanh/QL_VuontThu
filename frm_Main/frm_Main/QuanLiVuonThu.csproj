@@ -88,12 +88,6 @@
     <Compile Include="child_Form\ForgotPassword.Designer.cs">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
     </Compile>
-    <Compile Include="child_Form\frm_Home.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="child_Form\frm_Home.Designer.cs">
-      <DependentUpon>frm_Home.cs</DependentUpon>
-    </Compile>
     <Compile Include="child_Form\Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,19 +106,10 @@
     <Compile Include="child_Form\SingUp.Designer.cs">
       <DependentUpon>SingUp.cs</DependentUpon>
     </Compile>
-    <Compile Include="frm_default.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frm_default.Designer.cs">
-      <DependentUpon>frm_default.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="child_Form\ForgotPassword.resx">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="child_Form\frm_Home.resx">
-      <DependentUpon>frm_Home.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
@@ -134,9 +119,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\SingUp.resx">
       <DependentUpon>SingUp.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frm_default.resx">
-      <DependentUpon>frm_default.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
