@@ -27,7 +27,6 @@ C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.exe
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.exe
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
-C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe.licenses
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Login.resources
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
@@ -47,3 +46,4 @@ C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
