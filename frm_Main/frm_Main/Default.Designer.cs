@@ -31,9 +31,6 @@
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Default));
             this.panel2 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
@@ -53,12 +50,11 @@
             this.button1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pictureBox11 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.label6 = new System.Windows.Forms.Label();
             this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
@@ -70,65 +66,22 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
             this.SuspendLayout();
             // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.panel2.Controls.Add(this.label6);
             this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.label4);
-            this.panel2.Controls.Add(this.pictureBox12);
+            this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.label1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.panel2.Location = new System.Drawing.Point(0, 0);
-<<<<<<< Updated upstream
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
-=======
-<<<<<<< HEAD
             this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.panel2.Margin = new System.Windows.Forms.Padding(2);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.panel2.Name = "panel2";
-            this.panel2.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.panel2.Size = new System.Drawing.Size(1536, 100);
             this.panel2.TabIndex = 1;
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(1414, 32);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(54, 20);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "admin";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(1350, 32);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(58, 20);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Hello,";
-            // 
-            // pictureBox12
-            // 
-            this.pictureBox12.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox12.Image")));
-            this.pictureBox12.Location = new System.Drawing.Point(1474, 12);
-            this.pictureBox12.Name = "pictureBox12";
-            this.pictureBox12.Size = new System.Drawing.Size(50, 50);
-            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox12.TabIndex = 2;
-            this.pictureBox12.TabStop = false;
             // 
             // label2
             // 
@@ -169,54 +122,29 @@
             this.panel3.Controls.Add(this.button1);
             this.panel3.Controls.Add(this.pictureBox1);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
-<<<<<<< HEAD
             this.panel3.Location = new System.Drawing.Point(0, 100);
             this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.panel3.Location = new System.Drawing.Point(0, 81);
-            this.panel3.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(279, 817);
+            this.panel3.Size = new System.Drawing.Size(279, 820);
             this.panel3.TabIndex = 2;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
             // pictureBox10
             // 
             this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
-<<<<<<< HEAD
             this.pictureBox10.Location = new System.Drawing.Point(173, 766);
             this.pictureBox10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox10.Location = new System.Drawing.Point(130, 622);
-            this.pictureBox10.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(51, 50);
             this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox10.TabIndex = 11;
             this.pictureBox10.TabStop = false;
-            this.pictureBox10.Click += new System.EventHandler(this.pictureBox10_Click);
             // 
             // pictureBox9
             // 
             this.pictureBox9.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox9.Image")));
-<<<<<<< HEAD
             this.pictureBox9.Location = new System.Drawing.Point(225, 766);
             this.pictureBox9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox9.Location = new System.Drawing.Point(169, 622);
-            this.pictureBox9.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox9.Name = "pictureBox9";
             this.pictureBox9.Size = new System.Drawing.Size(51, 50);
             this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -227,16 +155,8 @@
             // pictureBox8
             // 
             this.pictureBox8.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox8.Image")));
-<<<<<<< HEAD
             this.pictureBox8.Location = new System.Drawing.Point(179, 641);
             this.pictureBox8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox8.Location = new System.Drawing.Point(134, 521);
-            this.pictureBox8.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox8.Name = "pictureBox8";
             this.pictureBox8.Size = new System.Drawing.Size(45, 50);
             this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -246,16 +166,8 @@
             // pictureBox7
             // 
             this.pictureBox7.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox7.Image")));
-<<<<<<< HEAD
             this.pictureBox7.Location = new System.Drawing.Point(179, 530);
             this.pictureBox7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox7.Location = new System.Drawing.Point(134, 431);
-            this.pictureBox7.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(45, 50);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -265,16 +177,8 @@
             // pictureBox6
             // 
             this.pictureBox6.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox6.Image")));
-<<<<<<< HEAD
             this.pictureBox6.Location = new System.Drawing.Point(179, 443);
             this.pictureBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox6.Location = new System.Drawing.Point(134, 360);
-            this.pictureBox6.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(45, 50);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -284,16 +188,8 @@
             // pictureBox5
             // 
             this.pictureBox5.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox5.Image")));
-<<<<<<< HEAD
             this.pictureBox5.Location = new System.Drawing.Point(179, 351);
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox5.Location = new System.Drawing.Point(134, 285);
-            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(45, 50);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -303,16 +199,8 @@
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-<<<<<<< HEAD
             this.pictureBox4.Location = new System.Drawing.Point(179, 262);
             this.pictureBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox4.Location = new System.Drawing.Point(134, 213);
-            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(45, 50);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -321,16 +209,8 @@
             // 
             // pictureBox3
             // 
-<<<<<<< HEAD
             this.pictureBox3.Location = new System.Drawing.Point(179, 955);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox3.Location = new System.Drawing.Point(134, 776);
-            this.pictureBox3.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(45, 50);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -339,16 +219,8 @@
             // 
             // pictureBox2
             // 
-<<<<<<< HEAD
             this.pictureBox2.Location = new System.Drawing.Point(231, 955);
             this.pictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox2.Location = new System.Drawing.Point(173, 776);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(45, 50);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -358,24 +230,10 @@
             // button5
             // 
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< Updated upstream
-            this.button5.Location = new System.Drawing.Point(3, 505);
-            this.button5.Margin = new System.Windows.Forms.Padding(2);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(204, 80);
-=======
-<<<<<<< HEAD
-            this.button5.Location = new System.Drawing.Point(3, 633);
+            this.button5.Location = new System.Drawing.Point(4, 622);
             this.button5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(272, 71);
-=======
-            this.button5.Location = new System.Drawing.Point(3, 505);
-            this.button5.Margin = new System.Windows.Forms.Padding(2);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(204, 80);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
+            this.button5.Size = new System.Drawing.Size(272, 98);
             this.button5.TabIndex = 5;
             this.button5.Text = "Exit";
             this.button5.UseVisualStyleBackColor = true;
@@ -384,24 +242,10 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< Updated upstream
-            this.button4.Location = new System.Drawing.Point(3, 425);
-            this.button4.Margin = new System.Windows.Forms.Padding(2);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(204, 80);
-=======
-<<<<<<< HEAD
-            this.button4.Location = new System.Drawing.Point(4, 521);
+            this.button4.Location = new System.Drawing.Point(4, 523);
             this.button4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(272, 71);
-=======
-            this.button4.Location = new System.Drawing.Point(3, 425);
-            this.button4.Margin = new System.Windows.Forms.Padding(2);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(204, 80);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
+            this.button4.Size = new System.Drawing.Size(272, 98);
             this.button4.TabIndex = 4;
             this.button4.Text = "Storage";
             this.button4.UseVisualStyleBackColor = true;
@@ -409,24 +253,10 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< Updated upstream
-            this.button3.Location = new System.Drawing.Point(3, 345);
-            this.button3.Margin = new System.Windows.Forms.Padding(2);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(204, 80);
-=======
-<<<<<<< HEAD
-            this.button3.Location = new System.Drawing.Point(4, 431);
+            this.button3.Location = new System.Drawing.Point(4, 425);
             this.button3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(272, 71);
-=======
-            this.button3.Location = new System.Drawing.Point(3, 345);
-            this.button3.Margin = new System.Windows.Forms.Padding(2);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(204, 80);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
+            this.button3.Size = new System.Drawing.Size(272, 98);
             this.button3.TabIndex = 3;
             this.button3.Text = "Animal";
             this.button3.UseVisualStyleBackColor = true;
@@ -434,24 +264,10 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< Updated upstream
-            this.button2.Location = new System.Drawing.Point(3, 265);
-            this.button2.Margin = new System.Windows.Forms.Padding(2);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(204, 80);
-=======
-<<<<<<< HEAD
-            this.button2.Location = new System.Drawing.Point(4, 342);
+            this.button2.Location = new System.Drawing.Point(4, 326);
             this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(272, 71);
-=======
-            this.button2.Location = new System.Drawing.Point(3, 265);
-            this.button2.Margin = new System.Windows.Forms.Padding(2);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(204, 80);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
+            this.button2.Size = new System.Drawing.Size(272, 98);
             this.button2.TabIndex = 2;
             this.button2.Text = "Employee";
             this.button2.UseVisualStyleBackColor = true;
@@ -460,24 +276,10 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< Updated upstream
-            this.button1.Location = new System.Drawing.Point(3, 186);
-            this.button1.Margin = new System.Windows.Forms.Padding(2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(204, 80);
-=======
-<<<<<<< HEAD
-            this.button1.Location = new System.Drawing.Point(3, 251);
+            this.button1.Location = new System.Drawing.Point(4, 229);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(272, 71);
-=======
-            this.button1.Location = new System.Drawing.Point(3, 186);
-            this.button1.Margin = new System.Windows.Forms.Padding(2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(204, 80);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
+            this.button1.Size = new System.Drawing.Size(272, 98);
             this.button1.TabIndex = 1;
             this.button1.Text = "Home";
             this.button1.UseVisualStyleBackColor = true;
@@ -486,16 +288,8 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-<<<<<<< HEAD
-            this.pictureBox1.Location = new System.Drawing.Point(0, 2);
+            this.pictureBox1.Location = new System.Drawing.Point(3, 2);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.pictureBox1.Location = new System.Drawing.Point(2, 2);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(2);
-<<<<<<< Updated upstream
-=======
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(273, 222);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -504,57 +298,45 @@
             // 
             // panel1
             // 
-<<<<<<< Updated upstream
-            this.panel1.Location = new System.Drawing.Point(212, 81);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
-=======
-<<<<<<< HEAD
-            this.panel1.Controls.Add(this.pictureBox11);
-            this.panel1.Controls.Add(this.label3);
-            this.panel1.Location = new System.Drawing.Point(281, 100);
+            this.panel1.Location = new System.Drawing.Point(283, 100);
             this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.panel1.Location = new System.Drawing.Point(212, 81);
-            this.panel1.Margin = new System.Windows.Forms.Padding(2);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1255, 817);
+            this.panel1.Size = new System.Drawing.Size(1275, 818);
             this.panel1.TabIndex = 3;
-            // 
-            // pictureBox11
-            // 
-            this.pictureBox11.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox11.Image")));
-            this.pictureBox11.Location = new System.Drawing.Point(4, 2);
-            this.pictureBox11.Name = "pictureBox11";
-            this.pictureBox11.Size = new System.Drawing.Size(1289, 796);
-            this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox11.TabIndex = 1;
-            this.pictureBox11.TabStop = false;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(1089, 800);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(1353, 29);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(154, 16);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "No CopyRight @2024";
+            this.label3.Size = new System.Drawing.Size(58, 20);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "Hello,";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(1417, 29);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(61, 20);
+            this.label4.TabIndex = 3;
+            this.label4.Text = "Admin";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(1354, 62);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(44, 16);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "label5";
             // 
             // timer1
             // 
             this.timer1.Interval = 1000;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(1413, 73);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(64, 25);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "label6";
             // 
             // Default
             // 
@@ -562,20 +344,12 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(1536, 917);
+            this.ClientSize = new System.Drawing.Size(1536, 920);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-<<<<<<< Updated upstream
-            this.Margin = new System.Windows.Forms.Padding(2);
-=======
-<<<<<<< HEAD
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-=======
-            this.Margin = new System.Windows.Forms.Padding(2);
->>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
->>>>>>> Stashed changes
             this.Name = "Default";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -583,7 +357,6 @@
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Default_FormClosing);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
@@ -595,9 +368,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -623,12 +393,9 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.PictureBox pictureBox9;
         private System.Windows.Forms.PictureBox pictureBox10;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.PictureBox pictureBox11;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.PictureBox pictureBox12;
+        private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.Label label6;
     }
 }

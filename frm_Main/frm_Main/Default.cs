@@ -16,12 +16,11 @@ namespace frm_Main
     public partial class Default : Form
     {
         Form currentChildForm;
-        DateTime currentDate;
         public Default()
         {
             InitializeComponent();
             timer1.Start();
-         
+            label5.Text = DateTime.Now.ToString("hh:mm:ss");
         }
 
         public void OpenChildForm(Form a) 
@@ -59,10 +58,6 @@ namespace frm_Main
         {
             Process.Start(new ProcessStartInfo("http://www.google.com") { UseShellExecute = true });
         }
-        private void pictureBox10_Click(object sender, EventArgs e)
-        {
-            OpenChildForm(new AboutUS());   
-        }
 
         private void button5_Click(object sender, EventArgs e)
         {
@@ -70,21 +65,20 @@ namespace frm_Main
             if(result == DialogResult.Yes) { Application.Exit(); }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void timer1_Tick(object sender, EventArgs e)
         {
-            if (currentChildForm != null) { currentChildForm.Close(); }
+            label5.Text = DateTime.Now.ToString("hh:mm:ss");
         }
-
         private void Default_FormClosing(object sender, FormClosingEventArgs e)
         {
             DialogResult result = MessageBox.Show("Bạn có muốn thoát ?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (result == DialogResult.Yes) {Application.Exit(); }
+            if (result == DialogResult.Yes) { Application.Exit(); }
             else { e.Cancel = true; }
         }
 
-        private void timer1_Tick(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
-            label6.Text = DateTime.Now.ToString("HH:mm:ss");
+            if (currentChildForm != null) { currentChildForm.Close(); }
         }
     }
 }
