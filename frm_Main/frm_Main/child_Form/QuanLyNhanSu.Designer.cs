@@ -61,6 +61,7 @@ namespace frm_Main.child_Form
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
@@ -87,25 +88,26 @@ namespace frm_Main.child_Form
             this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold);
-            this.label1.Location = new System.Drawing.Point(281, 19);
+            this.label1.Location = new System.Drawing.Point(293, -1);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(317, 26);
+            this.label1.Size = new System.Drawing.Size(382, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "EMPLOYEE MANAGEMENT";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // pictureBox1
             // 
@@ -140,12 +142,24 @@ namespace frm_Main.child_Form
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Personal Information";
             // 
+            // pictureBox4
+            // 
+            this.pictureBox4.BackColor = System.Drawing.Color.LightGray;
+            this.pictureBox4.ErrorImage = null;
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(373, 30);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(158, 156);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 18;
+            this.pictureBox4.TabStop = false;
+            // 
             // label6
             // 
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(20, 190);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(45, 13);
+            this.label6.Size = new System.Drawing.Size(58, 16);
             this.label6.TabIndex = 8;
             this.label6.Text = "Address";
             // 
@@ -154,7 +168,7 @@ namespace frm_Main.child_Form
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(20, 150);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(42, 13);
+            this.label5.Size = new System.Drawing.Size(52, 16);
             this.label5.TabIndex = 6;
             this.label5.Text = "Gender";
             // 
@@ -162,7 +176,7 @@ namespace frm_Main.child_Form
             // 
             this.dateTimePicker1.Location = new System.Drawing.Point(132, 110);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
+            this.dateTimePicker1.Size = new System.Drawing.Size(200, 22);
             this.dateTimePicker1.TabIndex = 5;
             // 
             // comboBox1
@@ -174,14 +188,14 @@ namespace frm_Main.child_Form
             "Other"});
             this.comboBox1.Location = new System.Drawing.Point(132, 150);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(200, 21);
+            this.comboBox1.Size = new System.Drawing.Size(200, 24);
             this.comboBox1.TabIndex = 7;
             // 
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(132, 190);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(200, 20);
+            this.textBox4.Size = new System.Drawing.Size(200, 22);
             this.textBox4.TabIndex = 9;
             // 
             // label4
@@ -189,7 +203,7 @@ namespace frm_Main.child_Form
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(20, 110);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(54, 13);
+            this.label4.Size = new System.Drawing.Size(65, 16);
             this.label4.TabIndex = 4;
             this.label4.Text = "Birth Date";
             // 
@@ -198,7 +212,7 @@ namespace frm_Main.child_Form
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(20, 70);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(84, 13);
+            this.label3.Size = new System.Drawing.Size(109, 16);
             this.label3.TabIndex = 2;
             this.label3.Text = "Employee Name";
             // 
@@ -207,7 +221,7 @@ namespace frm_Main.child_Form
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(20, 30);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(67, 13);
+            this.label2.Size = new System.Drawing.Size(85, 16);
             this.label2.TabIndex = 0;
             this.label2.Text = "Employee ID";
             // 
@@ -215,14 +229,14 @@ namespace frm_Main.child_Form
             // 
             this.textBox1.Location = new System.Drawing.Point(132, 30);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(200, 20);
+            this.textBox1.Size = new System.Drawing.Size(200, 22);
             this.textBox1.TabIndex = 1;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(132, 70);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(200, 20);
+            this.textBox2.Size = new System.Drawing.Size(200, 22);
             this.textBox2.TabIndex = 3;
             // 
             // richTextBox1
@@ -238,33 +252,39 @@ namespace frm_Main.child_Form
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(20, 381);
             this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(902, 318);
+            this.dataGridView1.Size = new System.Drawing.Size(902, 368);
             this.dataGridView1.TabIndex = 2;
             // 
             // richTextBox2
             // 
-            this.richTextBox2.Location = new System.Drawing.Point(100, 59);
+            this.richTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBox2.Location = new System.Drawing.Point(0, 21);
             this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(735, 29);
+            this.richTextBox2.Size = new System.Drawing.Size(710, 41);
             this.richTextBox2.TabIndex = 7;
-            this.richTextBox2.Text = "";
+            this.richTextBox2.Text = "Enter Name or ID";
+            this.richTextBox2.MouseClick += new System.Windows.Forms.MouseEventHandler(this.richTextBox2_MouseClick);
+            this.richTextBox2.TextChanged += new System.EventHandler(this.richTextBox2_TextChanged);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(841, 59);
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.Location = new System.Drawing.Point(881, 54);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(83, 29);
+            this.button1.Size = new System.Drawing.Size(41, 31);
             this.button1.TabIndex = 8;
             this.button1.UseVisualStyleBackColor = true;
             // 
             // menuStrip1
             // 
             this.menuStrip1.Dock = System.Windows.Forms.DockStyle.None;
+            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Table;
             this.menuStrip1.Location = new System.Drawing.Point(9, 59);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(77, 29);
+            this.menuStrip1.Size = new System.Drawing.Size(6, 4);
             this.menuStrip1.TabIndex = 9;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -301,7 +321,7 @@ namespace frm_Main.child_Form
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
+            this.pictureBox2.BackColor = System.Drawing.SystemColors.ControlLight;
             this.pictureBox2.Location = new System.Drawing.Point(20, 325);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(211, 55);
@@ -310,8 +330,7 @@ namespace frm_Main.child_Form
             // 
             // pictureBox3
             // 
-            this.pictureBox3.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
+            this.pictureBox3.BackColor = System.Drawing.SystemColors.ControlLight;
             this.pictureBox3.Location = new System.Drawing.Point(20, 346);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(902, 34);
@@ -321,21 +340,21 @@ namespace frm_Main.child_Form
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(45)))), ((int)(((byte)(0)))));
+            this.label8.BackColor = System.Drawing.SystemColors.ControlLight;
             this.label8.Font = new System.Drawing.Font("Segoe UI", 15.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.Color.White;
-            this.label8.Location = new System.Drawing.Point(54, 336);
+            this.label8.ForeColor = System.Drawing.Color.Black;
+            this.label8.Location = new System.Drawing.Point(39, 341);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(140, 30);
+            this.label8.Size = new System.Drawing.Size(179, 37);
             this.label8.TabIndex = 12;
             this.label8.Text = "DATA TABLE";
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.Color.Green;
-            this.button4.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.button4.Location = new System.Drawing.Point(802, 123);
+            this.button4.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button4.ForeColor = System.Drawing.Color.Black;
+            this.button4.Location = new System.Drawing.Point(800, 117);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(122, 46);
             this.button4.TabIndex = 13;
@@ -344,9 +363,9 @@ namespace frm_Main.child_Form
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Green;
-            this.button2.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.button2.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.Black;
             this.button2.Location = new System.Drawing.Point(800, 283);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(122, 46);
@@ -356,32 +375,32 @@ namespace frm_Main.child_Form
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.Green;
-            this.button3.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.button3.Location = new System.Drawing.Point(802, 203);
+            this.button3.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.Black;
+            this.button3.Location = new System.Drawing.Point(800, 197);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(122, 46);
             this.button3.TabIndex = 15;
             this.button3.Text = "EDIT";
             this.button3.UseVisualStyleBackColor = false;
             // 
-            // pictureBox4
+            // groupBox2
             // 
-            this.pictureBox4.BackColor = System.Drawing.Color.LightGray;
-            this.pictureBox4.ErrorImage = null;
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(373, 30);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(158, 156);
-            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox4.TabIndex = 18;
-            this.pictureBox4.TabStop = false;
+            this.groupBox2.Controls.Add(this.richTextBox2);
+            this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox2.Location = new System.Drawing.Point(165, 33);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(710, 52);
+            this.groupBox2.TabIndex = 16;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Search Box";
             // 
             // QuanLyNhanSu
             // 
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(934, 711);
+            this.ClientSize = new System.Drawing.Size(931, 752);
+            this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button4);
@@ -389,24 +408,23 @@ namespace frm_Main.child_Form
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.richTextBox2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menuStrip1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "QuanLyNhanSu";
             this.Text = "Employee Management";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            this.groupBox2.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -455,5 +473,6 @@ namespace frm_Main.child_Form
         private Button button2;
         private Button button3;
         private PictureBox pictureBox4;
+        private GroupBox groupBox2;
     }
 }

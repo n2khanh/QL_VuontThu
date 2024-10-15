@@ -49,8 +49,7 @@ C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.GenerateResource.cache
-C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe.licenses
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.CoreCompileInputs.cache
-C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVu.F87A503A.Up2Date
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources

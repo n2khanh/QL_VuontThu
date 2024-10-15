@@ -17,7 +17,7 @@ namespace frm_Main
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QuanLyNhanSu());
+            Application.Run(new Login());
         }
     }
 }
