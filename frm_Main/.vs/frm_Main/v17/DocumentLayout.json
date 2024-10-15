@@ -1,101 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\hp\\documents\\github\\project1\\frm_main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\default.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\user\\documents\\github\\project1\\frm_main\\frm_main\\properties\\licenses.licx||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\properties\\licenses.licx||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\hp\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\quanlynhansu.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\user\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\hp\\documents\\github\\project1\\frm_main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
-=======
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\singup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\hp\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_Main\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\singup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\forgotpassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_main\\child_form\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_Main\\frm_default.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frm_main\\frm_default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
     }
   ],
   "DocumentGroupContainers": [
@@ -105,117 +66,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Default.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs [Design]",
-              "RelativeToolTip": "frm_Main\\Default.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:49:12.137Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeToolTip": "frm_Main\\Default.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAMwEAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:11:49.604Z",
-              "IsPinned": true,
-=======
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
               "RelativeDocumentMoniker": "frm_Main\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
               "RelativeToolTip": "frm_Main\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T12:01:49.884Z",
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frm_Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\frm_Home.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\frm_Home.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\frm_Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T12:15:37.108Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frm_default.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.Designer.cs",
-              "RelativeDocumentMoniker": "frm_Main\\frm_default.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.Designer.cs",
-              "RelativeToolTip": "frm_Main\\frm_default.Designer.cs",
-              "ViewState": "AgIAAIwBAAAAAAAAAAAAAJYBAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T11:59:25.215Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "licenses.licx",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Properties\\licenses.licx",
-              "RelativeDocumentMoniker": "frm_Main\\Properties\\licenses.licx",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Properties\\licenses.licx*",
-              "RelativeToolTip": "frm_Main\\Properties\\licenses.licx*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-15T07:36:29.133Z",
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Login.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\Login.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwCkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:19:48.439Z",
-              "IsPinned": true
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuanLyNhanSu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:29:20.436Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
@@ -226,86 +94,113 @@
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
-<<<<<<< HEAD
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Login.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T08:13:55.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Program.cs",
-              "RelativeToolTip": "frm_Main\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:31:02.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Default.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.Designer.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Default.Designer.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.Designer.cs",
-              "RelativeToolTip": "frm_Main\\Default.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8BAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:11:44.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "QuanLyNhanSu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]",
               "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:46:17.936Z"
+              "WhenOpened": "2024-10-15T00:29:20.436Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "QuanLyNhanSu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAnwOIBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:46:14.766Z"
-=======
+              "WhenOpened": "2024-10-15T00:29:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyNhanSu.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.resx",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.resx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.resx",
+              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwHsLAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-15T08:52:25.646Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs",
+              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs [Design]",
+              "RelativeToolTip": "frm_Main\\Default.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:52:16.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\ForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:26:28.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\SingUp.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\SingUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:23:31.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Login.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:38:19.899Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-<<<<<<< HEAD
               "Title": "QuanLyNhanSu.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA7wBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:54:05.996Z"
-=======
+              "WhenOpened": "2024-10-15T00:29:24.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Resources.resx",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Properties\\Resources.resx",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "frm_Main\\Properties\\Resources.resx",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Properties\\Resources.resx",
               "RelativeToolTip": "frm_Main\\Properties\\Resources.resx",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
@@ -314,59 +209,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuanLyNhanSu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAADwvzQAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ForgotPassword.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.Designer.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\ForgotPassword.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.Designer.cs",
+              "RelativeToolTip": "frm_Main\\child_Form\\ForgotPassword.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:29:27.085Z",
+              "WhenOpened": "2024-10-15T00:27:03.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QuanLyNhanSu.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs*",
-              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAApwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:29:24.264Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ForgotPassword.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.Designer.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\ForgotPassword.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.Designer.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\ForgotPassword.Designer.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:27:03.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ForgotPassword.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\ForgotPassword.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\ForgotPassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:26:28.179Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "SingUp.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.Designer.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\SingUp.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.Designer.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\SingUp.Designer.cs",
               "ViewState": "AgIAAFYAAAAAAAAAAAAcwFcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -374,11 +234,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "SingUp.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\SingUp.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\SingUp.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -386,38 +246,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SingUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\SingUp.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\SingUp.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\SingUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T00:23:31.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Login.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Login.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\Login.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAIAwwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T00:18:46.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frm_default.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs",
-              "RelativeDocumentMoniker": "frm_Main\\frm_default.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\frm_default.cs [Design]",
-              "RelativeToolTip": "frm_Main\\frm_default.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T09:00:39.444Z"
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
             }
           ]
         }

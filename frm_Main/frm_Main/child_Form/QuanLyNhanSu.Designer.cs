@@ -88,26 +88,14 @@ namespace frm_Main.child_Form
             this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-<<<<<<< HEAD
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-=======
-            this.pictureBox5 = new System.Windows.Forms.PictureBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-<<<<<<< HEAD
             this.groupBox2.SuspendLayout();
-=======
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
             this.SuspendLayout();
             // 
             // label1
@@ -397,7 +385,6 @@ namespace frm_Main.child_Form
             this.button3.Text = "EDIT";
             this.button3.UseVisualStyleBackColor = false;
             // 
-<<<<<<< HEAD
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.richTextBox2);
@@ -414,45 +401,6 @@ namespace frm_Main.child_Form
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(931, 752);
             this.Controls.Add(this.groupBox2);
-=======
-            // pictureBox5
-            // 
-            this.pictureBox5.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.pictureBox5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox5.BackgroundImage")));
-            this.pictureBox5.Location = new System.Drawing.Point(20, 366);
-            this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(10, 343);
-            this.pictureBox5.TabIndex = 16;
-            this.pictureBox5.TabStop = false;
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.pictureBox6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox6.BackgroundImage")));
-            this.pictureBox6.Location = new System.Drawing.Point(912, 366);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(10, 343);
-            this.pictureBox6.TabIndex = 17;
-            this.pictureBox6.TabStop = false;
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.pictureBox7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox7.BackgroundImage")));
-            this.pictureBox7.Location = new System.Drawing.Point(20, 699);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(902, 10);
-            this.pictureBox7.TabIndex = 18;
-            this.pictureBox7.TabStop = false;
-            // 
-            // QuanLyNhanSu
-            // 
-            this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(934, 711);
-            this.Controls.Add(this.pictureBox7);
-            this.Controls.Add(this.pictureBox6);
-            this.Controls.Add(this.pictureBox5);
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button4);
@@ -476,13 +424,7 @@ namespace frm_Main.child_Form
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-<<<<<<< HEAD
             this.groupBox2.ResumeLayout(false);
-=======
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -531,12 +473,11 @@ namespace frm_Main.child_Form
         private Button button2;
         private Button button3;
         private PictureBox pictureBox4;
-<<<<<<< HEAD
+
         private GroupBox groupBox2;
-=======
+
         private PictureBox pictureBox5;
         private PictureBox pictureBox6;
         private PictureBox pictureBox7;
->>>>>>> 6a1cc3549e626ddb78452c2e81fff767086ffe16
     }
 }
