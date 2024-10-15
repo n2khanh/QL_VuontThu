@@ -21,5 +21,11 @@ namespace frm_Main.child_Form
         {
 
         }
+
+        private void btSingInLogin_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Vui lòng kiểm tra email của bạn và làm theo hướng dẫn ! ", "Thông Báo" , MessageBoxButtons.OK, MessageBoxIcon.Information);
+            this.Close();
+        }
     }
 }

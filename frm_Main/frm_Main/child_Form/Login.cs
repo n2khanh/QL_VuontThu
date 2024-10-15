@@ -12,6 +12,9 @@ namespace frm_Main.child_Form
 {
     public partial class Login : Form
     {
+        Form frm_defaults;
+        Form frm_sigup;
+        Form frm_QMK;
         public Login()
         {
             InitializeComponent();
@@ -43,11 +46,23 @@ namespace frm_Main.child_Form
         }
 
         private void btSingInLogin_Click(object sender, EventArgs e)
-        {
+        {           
+            this.Visible = false;
+            frm_defaults = new Default();
+            frm_defaults.Show();
             
-            Default form = new Default();
-            form.Show();
-            this.Close();
+        }
+
+        private void btSingUpLogin_Click(object sender, EventArgs e)
+        {
+            frm_sigup = new SingUp();
+            frm_sigup.ShowDialog();
+        }
+
+        private void lLbForgot_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            frm_QMK = new ForgotPassword();
+            frm_QMK.ShowDialog();
         }
     }
 }

@@ -60,7 +60,7 @@ namespace frm_Main
         private void button5_Click(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("Bạn có muốn thoát ?","Thông Báo",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
-            if(result == DialogResult.Yes) {this.Close(); }
+            if(result == DialogResult.Yes) { Application.Exit(); }
         }
     }
 }

@@ -44,9 +44,10 @@ namespace frm_Main.child_Form
             // pictureBox1
             // 
             this.pictureBox1.ErrorImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(-73, -59);
+            this.pictureBox1.Location = new System.Drawing.Point(-97, -73);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(276, 322);
+            this.pictureBox1.Size = new System.Drawing.Size(368, 396);
             this.pictureBox1.TabIndex = 18;
             this.pictureBox1.TabStop = false;
             // 
@@ -56,9 +57,11 @@ namespace frm_Main.child_Form
             this.groupBox1.Controls.Add(this.btSingInLogin);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.txtEmailSingUp);
-            this.groupBox1.Location = new System.Drawing.Point(156, 28);
+            this.groupBox1.Location = new System.Drawing.Point(208, 34);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(254, 172);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Size = new System.Drawing.Size(339, 212);
             this.groupBox1.TabIndex = 19;
             this.groupBox1.TabStop = false;
             // 
@@ -66,9 +69,10 @@ namespace frm_Main.child_Form
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI Symbol", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(2, 16);
+            this.label2.Location = new System.Drawing.Point(3, 20);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(252, 32);
+            this.label2.Size = new System.Drawing.Size(313, 41);
             this.label2.TabIndex = 20;
             this.label2.Text = "Reset your password";
             // 
@@ -77,20 +81,23 @@ namespace frm_Main.child_Form
             this.btSingInLogin.BackColor = System.Drawing.Color.Green;
             this.btSingInLogin.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSingInLogin.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.btSingInLogin.Location = new System.Drawing.Point(89, 120);
+            this.btSingInLogin.Location = new System.Drawing.Point(119, 148);
+            this.btSingInLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btSingInLogin.Name = "btSingInLogin";
-            this.btSingInLogin.Size = new System.Drawing.Size(80, 30);
+            this.btSingInLogin.Size = new System.Drawing.Size(107, 37);
             this.btSingInLogin.TabIndex = 19;
             this.btSingInLogin.Text = "OK";
             this.btSingInLogin.UseVisualStyleBackColor = false;
+            this.btSingInLogin.Click += new System.EventHandler(this.btSingInLogin_Click);
             // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Segoe UI Semibold", 9F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(16, 66);
+            this.label5.Location = new System.Drawing.Point(21, 81);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(36, 15);
+            this.label5.Size = new System.Drawing.Size(46, 20);
             this.label5.TabIndex = 18;
             this.label5.Text = "Email";
             // 
@@ -98,19 +105,22 @@ namespace frm_Main.child_Form
             // 
             this.txtEmailSingUp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
-            this.txtEmailSingUp.Location = new System.Drawing.Point(52, 63);
+            this.txtEmailSingUp.Location = new System.Drawing.Point(69, 78);
+            this.txtEmailSingUp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtEmailSingUp.Name = "txtEmailSingUp";
-            this.txtEmailSingUp.Size = new System.Drawing.Size(180, 20);
+            this.txtEmailSingUp.Size = new System.Drawing.Size(239, 22);
             this.txtEmailSingUp.TabIndex = 17;
             // 
             // ForgotPassword
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(429, 226);
+            this.ClientSize = new System.Drawing.Size(572, 278);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.pictureBox1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "ForgotPassword";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ForgotPassword";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.groupBox1.ResumeLayout(false);

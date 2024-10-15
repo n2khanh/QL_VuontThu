@@ -21,5 +21,11 @@ namespace frm_Main.child_Form
         {
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Chúc mừng bạn đăng kí thành công !", "Thông Báo", MessageBoxButtons.OK);
+            this.Close();
+        }
     }
 }

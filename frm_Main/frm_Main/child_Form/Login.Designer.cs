@@ -34,6 +34,7 @@ namespace frm_Main.child_Form
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.btSee = new System.Windows.Forms.Button();
             this.btSingUpLogin = new System.Windows.Forms.Button();
             this.lLbForgot = new System.Windows.Forms.LinkLabel();
@@ -44,7 +45,6 @@ namespace frm_Main.child_Form
             this.txtUserNameLogin = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -63,19 +63,31 @@ namespace frm_Main.child_Form
             this.groupBox1.Controls.Add(this.txtUserNameLogin);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Location = new System.Drawing.Point(383, 12);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(328, 412);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
+            // button1
+            // 
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.Location = new System.Drawing.Point(246, 180);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(40, 25);
+            this.button1.TabIndex = 14;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Visible = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // btSee
             // 
             this.btSee.Image = ((System.Drawing.Image)(resources.GetObject("btSee.Image")));
             this.btSee.Location = new System.Drawing.Point(246, 181);
-            this.btSee.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSee.Margin = new System.Windows.Forms.Padding(4);
             this.btSee.Name = "btSee";
             this.btSee.Size = new System.Drawing.Size(40, 25);
             this.btSee.TabIndex = 13;
@@ -88,12 +100,13 @@ namespace frm_Main.child_Form
             this.btSingUpLogin.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSingUpLogin.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.btSingUpLogin.Location = new System.Drawing.Point(179, 235);
-            this.btSingUpLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSingUpLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btSingUpLogin.Name = "btSingUpLogin";
             this.btSingUpLogin.Size = new System.Drawing.Size(107, 37);
             this.btSingUpLogin.TabIndex = 12;
             this.btSingUpLogin.Text = "Sign Up";
             this.btSingUpLogin.UseVisualStyleBackColor = false;
+            this.btSingUpLogin.Click += new System.EventHandler(this.btSingUpLogin_Click);
             // 
             // lLbForgot
             // 
@@ -106,6 +119,7 @@ namespace frm_Main.child_Form
             this.lLbForgot.TabIndex = 9;
             this.lLbForgot.TabStop = true;
             this.lLbForgot.Text = "Forgot Password?";
+            this.lLbForgot.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lLbForgot_LinkClicked);
             // 
             // label4
             // 
@@ -135,7 +149,7 @@ namespace frm_Main.child_Form
             this.btSingInLogin.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSingInLogin.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.btSingInLogin.Location = new System.Drawing.Point(45, 235);
-            this.btSingInLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btSingInLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btSingInLogin.Name = "btSingInLogin";
             this.btSingInLogin.Size = new System.Drawing.Size(107, 37);
             this.btSingInLogin.TabIndex = 4;
@@ -146,7 +160,7 @@ namespace frm_Main.child_Form
             // txtPasswordLogin
             // 
             this.txtPasswordLogin.Location = new System.Drawing.Point(45, 181);
-            this.txtPasswordLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtPasswordLogin.Margin = new System.Windows.Forms.Padding(4);
             this.txtPasswordLogin.Name = "txtPasswordLogin";
             this.txtPasswordLogin.PasswordChar = '*';
             this.txtPasswordLogin.Size = new System.Drawing.Size(199, 22);
@@ -157,7 +171,7 @@ namespace frm_Main.child_Form
             this.txtUserNameLogin.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.txtUserNameLogin.Location = new System.Drawing.Point(45, 124);
-            this.txtUserNameLogin.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtUserNameLogin.Margin = new System.Windows.Forms.Padding(4);
             this.txtUserNameLogin.Name = "txtUserNameLogin";
             this.txtUserNameLogin.Size = new System.Drawing.Size(239, 22);
             this.txtUserNameLogin.TabIndex = 2;
@@ -183,18 +197,6 @@ namespace frm_Main.child_Form
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
-            // button1
-            // 
-            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(246, 180);
-            this.button1.Margin = new System.Windows.Forms.Padding(4);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(40, 25);
-            this.button1.TabIndex = 14;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Visible = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -202,8 +204,9 @@ namespace frm_Main.child_Form
             this.ClientSize = new System.Drawing.Size(724, 438);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
             this.Load += new System.EventHandler(this.Login_Load);
             this.groupBox1.ResumeLayout(false);
