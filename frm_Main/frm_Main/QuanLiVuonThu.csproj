@@ -100,11 +100,17 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -114,19 +120,36 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Content Include="Image\animal_icon.jpg" />
-    <Content Include="Image\employee_icon.png" />
-    <Content Include="Image\exit_icon.png" />
-    <Content Include="Image\facebook_icon.png" />
-    <Content Include="Image\home_icon.png" />
-    <Content Include="Image\Icon.jpg" />
-    <Content Include="Image\Storage_icon.png" />
-    <Content Include="Image\zoo_icon.ico" />
-    <Content Include="Image\ảnhHome.jpg" />
+    <None Include="Resources\ảnhHome.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <None Include="Resources\animal_icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mk_re %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mk_re %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
