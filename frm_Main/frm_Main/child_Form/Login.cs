@@ -47,7 +47,7 @@ namespace frm_Main.child_Form
 
         private void btSingInLogin_Click(object sender, EventArgs e)
         {           
-            this.Visible = false;
+            this.Hide();
             frm_defaults = new Default();
             frm_defaults.Show();
             

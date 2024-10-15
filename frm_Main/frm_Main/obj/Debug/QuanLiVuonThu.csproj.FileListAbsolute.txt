@@ -46,4 +46,12 @@ C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
+<<<<<<< Updated upstream
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
+=======
+<<<<<<< HEAD
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.AboutUS.resources
+=======
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
+>>>>>>> 0a1fd836b1b12f45d1f4d355c273a70cd1f69b74
+>>>>>>> Stashed changes
