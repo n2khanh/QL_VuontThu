@@ -44,11 +44,9 @@ C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.exe
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.AssemblyReference.cache
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.ForgotPassword.resources
-C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.frm_Home.resources
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Login.resources
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.QuanLyNhanSu.resources
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
-C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.frm_default.resources
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.GenerateResource.cache
 C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe.licenses
