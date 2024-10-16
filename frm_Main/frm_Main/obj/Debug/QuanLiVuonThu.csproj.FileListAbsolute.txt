@@ -50,3 +50,4 @@ C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonTh
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVu.F87A503A.Up2Date
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.pdb

@@ -46,5 +46,25 @@ namespace frm_Main.child_Form
         {
             richTextBox2.Text = "";
         }
+
+        private void QuanLyNhanSu_Load_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

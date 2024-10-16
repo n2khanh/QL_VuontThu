@@ -19,6 +19,8 @@ namespace frm_Main
         public Default()
         {
             InitializeComponent();
+            timer1.Start();
+            label5.Text = DateTime.Now.ToString("hh:mm:ss");
         }
 
         public void OpenChildForm(Form a) 
@@ -61,6 +63,22 @@ namespace frm_Main
         {
             DialogResult result = MessageBox.Show("Bạn có muốn thoát ?","Thông Báo",MessageBoxButtons.YesNo,MessageBoxIcon.Question);
             if(result == DialogResult.Yes) { Application.Exit(); }
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label5.Text = DateTime.Now.ToString("hh:mm:ss");
+        }
+        private void Default_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Bạn có muốn thoát ?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (result == DialogResult.Yes) { Application.Exit(); }
+            else { e.Cancel = true; }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (currentChildForm != null) { currentChildForm.Close(); }
         }
     }
 }

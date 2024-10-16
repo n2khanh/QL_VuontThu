@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace frm_Main.child_Form
 {
-    public partial class frm_Storage : Form
+    public partial class AboutUS : Form
     {
-        public frm_Storage()
+        public AboutUS()
         {
             InitializeComponent();
         }
