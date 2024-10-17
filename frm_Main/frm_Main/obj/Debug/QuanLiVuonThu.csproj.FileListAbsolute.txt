@@ -51,4 +51,21 @@ C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVu.F87
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
+<<<<<<< HEAD
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.QuanLyDongVat.resources
+=======
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\Bunifu.Licensing.dll
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe.licenses
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVu.F87A503A.Up2Date
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Add_Animal.resources
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal.resources
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal_Details.resources
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cage_Details.resources
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Search_Animal.resources
+>>>>>>> e75ece967625b0251fc939ba23d5d65e65da8de8
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Add_Animal.resources
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal.resources
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal_Details.resources
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cage_Details.resources
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Search_Animal.resources
+C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources

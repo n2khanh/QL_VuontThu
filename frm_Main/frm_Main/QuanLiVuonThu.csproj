@@ -51,6 +51,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="child_Form\Add_Animal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Add_Animal.Designer.cs">
+      <DependentUpon>Add_Animal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Animal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Animal.Designer.cs">
+      <DependentUpon>Animal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Animal_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Animal_Details.Designer.cs">
+      <DependentUpon>Animal_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Cage_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Cage_Details.Designer.cs">
+      <DependentUpon>Cage_Details.cs</DependentUpon>
+    </Compile>
     <Compile Include="child_Form\ForgotPassword.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -63,23 +87,29 @@
     <Compile Include="child_Form\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="child_Form\QuanLyDongVat.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="child_Form\QuanLyDongVat.Designer.cs">
-      <DependentUpon>QuanLyDongVat.cs</DependentUpon>
-    </Compile>
     <Compile Include="child_Form\QuanLyNhanSu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="child_Form\QuanLyNhanSu.Designer.cs">
       <DependentUpon>QuanLyNhanSu.cs</DependentUpon>
     </Compile>
+    <Compile Include="child_Form\Search_Animal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Search_Animal.Designer.cs">
+      <DependentUpon>Search_Animal.cs</DependentUpon>
+    </Compile>
     <Compile Include="child_Form\SingUp.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="child_Form\SingUp.Designer.cs">
       <DependentUpon>SingUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Warehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Warehouse.Designer.cs">
+      <DependentUpon>Warehouse.cs</DependentUpon>
     </Compile>
     <Compile Include="Default.cs">
       <SubType>Form</SubType>
@@ -89,21 +119,36 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="child_Form\Add_Animal.resx">
+      <DependentUpon>Add_Animal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Animal.resx">
+      <DependentUpon>Animal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Animal_Details.resx">
+      <DependentUpon>Animal_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Cage_Details.resx">
+      <DependentUpon>Cage_Details.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="child_Form\ForgotPassword.resx">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="child_Form\QuanLyDongVat.resx">
-      <DependentUpon>QuanLyDongVat.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="child_Form\QuanLyNhanSu.resx">
       <DependentUpon>QuanLyNhanSu.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Search_Animal.resx">
+      <DependentUpon>Search_Animal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="child_Form\SingUp.resx">
       <DependentUpon>SingUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Warehouse.resx">
+      <DependentUpon>Warehouse.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Default.resx">
       <DependentUpon>Default.cs</DependentUpon>
@@ -133,7 +178,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\ảnhHome.jpg" />
   </ItemGroup>
