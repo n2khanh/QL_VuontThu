@@ -101,7 +101,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(116, 176);
+            this.label9.Location = new System.Drawing.Point(75, 176);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(147, 25);
             this.label9.TabIndex = 20;
@@ -150,9 +150,9 @@
             this.groupBox3.Controls.Add(this.label9);
             this.groupBox3.Controls.Add(this.pictureBox4);
             this.groupBox3.Controls.Add(this.label1);
-            this.groupBox3.Location = new System.Drawing.Point(635, 75);
+            this.groupBox3.Location = new System.Drawing.Point(642, 75);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(264, 207);
+            this.groupBox3.Size = new System.Drawing.Size(228, 207);
             this.groupBox3.TabIndex = 26;
             this.groupBox3.TabStop = false;
             // 
@@ -170,7 +170,7 @@
             this.pictureBox4.BackColor = System.Drawing.Color.LightGray;
             this.pictureBox4.ErrorImage = null;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(48, 19);
+            this.pictureBox4.Location = new System.Drawing.Point(30, 19);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(169, 154);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -181,11 +181,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(6, 177);
+            this.label1.Location = new System.Drawing.Point(16, 176);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(104, 25);
+            this.label1.Size = new System.Drawing.Size(64, 25);
             this.label1.TabIndex = 0;
-            this.label1.Text = "EMPLOYEE";
+            this.label1.Text = "FOOD";
             // 
             // textBox1
             // 
