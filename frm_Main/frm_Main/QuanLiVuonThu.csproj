@@ -63,6 +63,12 @@
     <Compile Include="child_Form\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
+    <Compile Include="child_Form\QuanLyDongVat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\QuanLyDongVat.Designer.cs">
+      <DependentUpon>QuanLyDongVat.cs</DependentUpon>
+    </Compile>
     <Compile Include="child_Form\QuanLyNhanSu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -88,6 +94,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\QuanLyDongVat.resx">
+      <DependentUpon>QuanLyDongVat.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\QuanLyNhanSu.resx">
       <DependentUpon>QuanLyNhanSu.cs</DependentUpon>
