@@ -69,3 +69,4 @@ C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.chi
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cage_Details.resources
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Search_Animal.resources
 C:\Users\User\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources
+C:\Users\HP\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources
