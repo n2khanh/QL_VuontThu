@@ -121,15 +121,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="child_Form\Add_Animal.resx">
       <DependentUpon>Add_Animal.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Animal.resx">
       <DependentUpon>Animal.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Animal_Details.resx">
       <DependentUpon>Animal_Details.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Cage_Details.resx">
       <DependentUpon>Cage_Details.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\ForgotPassword.resx">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
@@ -143,12 +147,14 @@
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Search_Animal.resx">
       <DependentUpon>Search_Animal.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\SingUp.resx">
       <DependentUpon>SingUp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Warehouse.resx">
       <DependentUpon>Warehouse.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Default.resx">
       <DependentUpon>Default.cs</DependentUpon>
