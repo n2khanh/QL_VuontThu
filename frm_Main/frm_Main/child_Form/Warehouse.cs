@@ -21,37 +21,19 @@ namespace frm_Main.child_Form
             DataTable dataTable = processData.DocBang("Select * from ThucAn");
             dataGridView1.DataSource = dataTable;
         }
-
-
         private void button1_Click(object sender, EventArgs e)
         {
-            DataTable dataTable = processData.DocBang("Select * from ThucAn");
-            if (!string.IsNullOrWhiteSpace(richTextBox2.Text))
+            string sql = "select * from ThucAn where [Mã thức ăn]='" + richTextBox2.Text + "' or [Tên thức ăn]=N'" + richTextBox2.Text + "'";
+            DataTable dataTable = processData.DocBang(sql);
+            dataGridView1.DataSource = dataTable;
+            if (dataGridView1.Rows.Count == 0)
             {
-                string sql = "select * from ThucAn where [Mã thức ăn]='" + richTextBox2.Text + "' or [Tên thức ăn]=N'" + richTextBox2.Text + "'";
-                DataTable searchResults = processData.DocBang(sql);
-                if (searchResults.Rows.Count == 0)
-                {
-                    MessageBox.Show("Không có mã hay tên thức ăn nào như vậy!", "Thông báo", MessageBoxButtons.OK);
-                    dataGridView1.DataSource = dataTable;
-                    XoaTrangThongTin();
-                }
-                else
-                {
-                    dataGridView1.DataSource = searchResults;
-                    XoaTrangThongTin();
-                }
-            }
-            else
-            {
-                
-                dataGridView1.DataSource = dataTable;
+                MessageBox.Show("Không có mã hay tên thức ăn nào như vậy!", "Thông báo", MessageBoxButtons.OK);
             }
         }
 
         private void dataGridView1_Click(object sender, EventArgs e)
         {
-            textBox1.Enabled = false;
             if (dataGridView1.SelectedRows.Count > 0)
             {
                 DataGridViewRow selectedItem = dataGridView1.SelectedRows[0];
@@ -164,8 +146,6 @@ namespace frm_Main.child_Form
                 if (dialogResult == DialogResult.OK)
                 {
                     string ma = selectedRow.Cells[0].Value.ToString();
-                    string deleteForeignKeyQuery = "DELETE FROM Thu_ThucAn WHERE [Mã thức ăn] = '" + ma + "'";
-                    processData.CapNhatDuLieu(deleteForeignKeyQuery);
                     string query = "DELETE from ThucAn where [Mã thức ăn]='" + ma + "'";
                     processData.CapNhatDuLieu(query);
                     DataTable dataTable = processData.DocBang("Select * from ThucAn");
@@ -177,7 +157,6 @@ namespace frm_Main.child_Form
                 MessageBox.Show("Vui lòng chọn một hàng để xóa.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
             XoaTrangThongTin();
-            textBox1.Enabled = true;
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -197,6 +176,11 @@ namespace frm_Main.child_Form
         private void richTextBox2_Click(object sender, EventArgs e)
         {
             richTextBox2.Text = "";
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

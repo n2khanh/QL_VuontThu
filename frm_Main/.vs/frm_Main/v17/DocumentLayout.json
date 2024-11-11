@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\",
+  "WorkspaceRootPath": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\khanh\\documents\\github\\project1\\frm_main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,64 +58,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProcessDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
-              "RelativeDocumentMoniker": "frm_Main\\LOG\\ProcessDataBase.cs",
-              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
-              "RelativeToolTip": "frm_Main\\LOG\\ProcessDataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "QuanLyNhanSu.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs*",
+              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T10:33:50.332Z",
+              "WhenOpened": "2024-11-11T17:19:13.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.cs",
-              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
-              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeToolTip": "frm_Main\\Default.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAEwEoAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-11-11T10:22:26.367Z"
+              "DocumentIndex": 1,
+              "Title": "QuanLyNhanSu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
+              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:19:06.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Default.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
+              "Title": "QuanLyNhanSu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]*",
+              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:14:41.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcessDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
+              "RelativeDocumentMoniker": "frm_Main\\LOG\\ProcessDataBase.cs",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
+              "RelativeToolTip": "frm_Main\\LOG\\ProcessDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:33:50.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs",
               "RelativeDocumentMoniker": "frm_Main\\Default.cs",
-              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs [Design]",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs",
+              "RelativeToolTip": "frm_Main\\Default.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAEwEoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:22:26.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs",
+              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\Default.cs [Design]",
               "RelativeToolTip": "frm_Main\\Default.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T10:22:24.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Warehouse.cs",
-              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
-              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAuwKgAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:04:31.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T07:04:31.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Warehouse.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
-              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs [Design]",
+              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs [Design]",
               "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:03:34.461Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-11T07:03:34.461Z"
             }
           ]
         }
