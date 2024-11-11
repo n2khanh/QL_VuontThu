@@ -1,4 +1,5 @@
-﻿using System;
+﻿using frm_Main.LOG;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -44,13 +45,32 @@ namespace frm_Main.child_Form
             button1.Visible = false;
             txtPasswordLogin.Focus();
         }
-
+        Modify modify = new Modify();
         private void btSingInLogin_Click(object sender, EventArgs e)
-        {           
-            this.Visible = false;
-            frm_defaults = new Default();
-            frm_defaults.Show();
-            
+        {
+            //this.Visible = false;
+            //frm_defaults = new Default();
+            //frm_defaults.Show();
+            string tentk = txtUserNameLogin.Text;
+            string matkhau = txtPasswordLogin.Text;
+            if (tentk.Trim() == "") { MessageBox.Show("Vui lòng nhập tên tài khoản!"); }
+            else if (matkhau.Trim() == "") { MessageBox.Show("Vui lòng nhập mật khẩu!"); }
+            else
+            {
+                string query = "Select * from TaiKhoan where TenTaiKhoan = '" + tentk + "' and MatKhau = '" + matkhau + "'";
+                if (modify.TaiKhoans(query).Count != 0)
+                {
+                    MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    this.Visible = false;
+                    frm_defaults = new Default();
+                    frm_defaults.Show();
+                }
+                else
+                {
+                    MessageBox.Show("Tên tài khoản hoặc mật khấu không chính xác!" ,"Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }
+
         }
 
         private void btSingUpLogin_Click(object sender, EventArgs e)

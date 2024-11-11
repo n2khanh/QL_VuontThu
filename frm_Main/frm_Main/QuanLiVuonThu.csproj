@@ -117,7 +117,9 @@
     <Compile Include="Default.Designer.cs">
       <DependentUpon>Default.cs</DependentUpon>
     </Compile>
-    <Compile Include="ProcessDataBase.cs" />
+    <Compile Include="LOG\Modify.cs" />
+    <Compile Include="LOG\TaiKhoan.cs" />
+    <Compile Include="LOG\ProcessDataBase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="child_Form\Add_Animal.resx">

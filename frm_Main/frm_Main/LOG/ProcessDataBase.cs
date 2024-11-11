@@ -10,16 +10,21 @@ namespace frm_Main
 {
     public class ProcessDataBase
     {
-        string strConnect = "Data Source=localhost;Initial Catalog=QLVuonThu;Integrated Security=True";
+        static string strConnect = @"Data Source=DESKTOP-A3NO6EJ\SQLEXPRESS;Initial Catalog=QLVuonThu;Integrated Security=True;TrustServerCertificate=True";
         SqlConnection sqlConnect = null;
         //Hàm mở kết nối CSDL
-        private void KetNoiCSDL()
+        public static SqlConnection GetSqlConnection()
+        {
+            return new SqlConnection(strConnect);
+        }
+   
+        public void KetNoiCSDL()
         {
             sqlConnect = new SqlConnection(strConnect);
             if (sqlConnect.State != ConnectionState.Open)
                 sqlConnect.Open();
         }//Hàm đóng kết nối CSDL
-        private void DongKetNoiCSDL()
+        public void DongKetNoiCSDL()
         {
             if (sqlConnect.State != ConnectionState.Closed)
                 sqlConnect.Close();
