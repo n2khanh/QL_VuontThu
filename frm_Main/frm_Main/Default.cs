@@ -73,7 +73,6 @@ namespace frm_Main
         {
             DialogResult result = MessageBox.Show("Bạn có muốn thoát ?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (result == DialogResult.Yes) { Application.Exit(); }
-            else { e.Cancel = true; }
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -89,6 +88,11 @@ namespace frm_Main
         private void button4_Click(object sender, EventArgs e)
         {
             OpenChildForm(new Warehouse());
+        }
+
+        private void Default_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

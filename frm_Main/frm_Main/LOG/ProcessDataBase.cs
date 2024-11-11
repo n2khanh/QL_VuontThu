@@ -10,12 +10,13 @@ namespace frm_Main
 {
     public class ProcessDataBase
     {
-        static string strConnect = @"Data Source=DESKTOP-A3NO6EJ\SQLEXPRESS;Initial Catalog=QLVuonThu;Integrated Security=True;TrustServerCertificate=True";
+        string strConnect = "Data Source=DESKTOP-P86AVM7\\SQLEXPRESS;Initial Catalog=QLVuonThu;Integrated Security=True";
+        static string strConnect1 = @"Data Source=DESKTOP-A3NO6EJ\SQLEXPRESS;Initial Catalog=QLVuonThu;Integrated Security=True;TrustServerCertificate=True";
         SqlConnection sqlConnect = null;
         //Hàm mở kết nối CSDL
         public static SqlConnection GetSqlConnection()
         {
-            return new SqlConnection(strConnect);
+            return new SqlConnection(strConnect1);
         }
    
         public void KetNoiCSDL()

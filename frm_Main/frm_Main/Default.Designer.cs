@@ -80,7 +80,7 @@
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(1403, 100);
+            this.panel2.Size = new System.Drawing.Size(1403, 80);
             this.panel2.TabIndex = 1;
             // 
             // label5
@@ -151,10 +151,10 @@
             this.panel3.Controls.Add(this.button1);
             this.panel3.Controls.Add(this.pictureBox1);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Left;
-            this.panel3.Location = new System.Drawing.Point(0, 100);
+            this.panel3.Location = new System.Drawing.Point(0, 80);
             this.panel3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(279, 817);
+            this.panel3.Size = new System.Drawing.Size(279, 840);
             this.panel3.TabIndex = 2;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
@@ -238,7 +238,7 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(179, 955);
+            this.pictureBox3.Location = new System.Drawing.Point(195, 942);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(45, 50);
@@ -330,10 +330,10 @@
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(283, 100);
+            this.panel1.Location = new System.Drawing.Point(285, 84);
             this.panel1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1275, 818);
+            this.panel1.Size = new System.Drawing.Size(1273, 967);
             this.panel1.TabIndex = 3;
             // 
             // timer1
@@ -347,7 +347,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(1403, 917);
+            this.ClientSize = new System.Drawing.Size(1403, 920);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
@@ -358,6 +358,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Default";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Default_FormClosing);
+            this.Load += new System.EventHandler(this.Default_Load);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             this.panel3.ResumeLayout(false);
