@@ -25,12 +25,27 @@ namespace frm_Main.child_Form
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string sql = "select * from ThucAn where [Mã thức ăn]='" + richTextBox2.Text + "' or [Tên thức ăn]=N'" + richTextBox2.Text + "'";
-            DataTable dataTable = processData.DocBang(sql);
-            dataGridView1.DataSource = dataTable;
-            if (dataGridView1.Rows.Count == 0)
+            DataTable dataTable = processData.DocBang("Select * from ThucAn");
+            if (!string.IsNullOrWhiteSpace(richTextBox2.Text))
             {
-                MessageBox.Show("Không có mã hay tên thức ăn nào như vậy!", "Thông báo", MessageBoxButtons.OK);
+                string sql = "select * from ThucAn where [Mã thức ăn]='" + richTextBox2.Text + "' or [Tên thức ăn]=N'" + richTextBox2.Text + "'";
+                DataTable searchResults = processData.DocBang(sql);
+                if (searchResults.Rows.Count == 0)
+                {
+                    MessageBox.Show("Không có mã hay tên thức ăn nào như vậy!", "Thông báo", MessageBoxButtons.OK);
+                    dataGridView1.DataSource = dataTable;
+                    XoaTrangThongTin();
+                }
+                else
+                {
+                    dataGridView1.DataSource = searchResults;
+                    XoaTrangThongTin();
+                }
+            }
+            else
+            {
+                
+                dataGridView1.DataSource = dataTable;
             }
         }
 
