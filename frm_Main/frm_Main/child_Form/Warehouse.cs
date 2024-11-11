@@ -51,6 +51,7 @@ namespace frm_Main.child_Form
 
         private void dataGridView1_Click(object sender, EventArgs e)
         {
+            textBox1.Enabled = false;
             if (dataGridView1.SelectedRows.Count > 0)
             {
                 DataGridViewRow selectedItem = dataGridView1.SelectedRows[0];
@@ -163,6 +164,8 @@ namespace frm_Main.child_Form
                 if (dialogResult == DialogResult.OK)
                 {
                     string ma = selectedRow.Cells[0].Value.ToString();
+                    string deleteForeignKeyQuery = "DELETE FROM Thu_ThucAn WHERE [Mã thức ăn] = '" + ma + "'";
+                    processData.CapNhatDuLieu(deleteForeignKeyQuery);
                     string query = "DELETE from ThucAn where [Mã thức ăn]='" + ma + "'";
                     processData.CapNhatDuLieu(query);
                     DataTable dataTable = processData.DocBang("Select * from ThucAn");
@@ -174,6 +177,7 @@ namespace frm_Main.child_Form
                 MessageBox.Show("Vui lòng chọn một hàng để xóa.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
             XoaTrangThongTin();
+            textBox1.Enabled = true;
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)

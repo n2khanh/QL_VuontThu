@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProcessDataBase.cs",
               "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
               "RelativeDocumentMoniker": "frm_Main\\LOG\\ProcessDataBase.cs",
@@ -82,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
               "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAuwKgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T07:04:31.465Z",
               "EditorCaption": ""
@@ -101,8 +101,9 @@
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
               "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs [Design]",
               "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2024-11-11T07:03:34.461Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T07:03:34.461Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
