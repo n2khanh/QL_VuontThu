@@ -60,7 +60,7 @@
             this.groupBox1.Size = new System.Drawing.Size(595, 350);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Chuồng Hổ";
             // 
             // button1
             // 
@@ -81,6 +81,7 @@
             this.dataGridView1.RowTemplate.Height = 24;
             this.dataGridView1.Size = new System.Drawing.Size(583, 279);
             this.dataGridView1.TabIndex = 0;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // groupBox2
             // 
@@ -91,7 +92,7 @@
             this.groupBox2.Size = new System.Drawing.Size(595, 350);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "groupBox2";
+            this.groupBox2.Text = "Chuồng Sư tử";
             // 
             // button2
             // 
@@ -122,7 +123,7 @@
             this.groupBox3.Size = new System.Drawing.Size(595, 350);
             this.groupBox3.TabIndex = 2;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "groupBox3";
+            this.groupBox3.Text = "Chuồng Báo";
             // 
             // button3
             // 
@@ -153,7 +154,7 @@
             this.groupBox4.Size = new System.Drawing.Size(595, 350);
             this.groupBox4.TabIndex = 3;
             this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "groupBox4";
+            this.groupBox4.Text = "Chuồng Gấu";
             // 
             // button4
             // 
@@ -198,6 +199,7 @@
             this.Name = "Cage_Details";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Details";
+            this.Load += new System.EventHandler(this.Cage_Details_Load);
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox2.ResumeLayout(false);
