@@ -11,12 +11,28 @@ using System.Windows.Forms;
 namespace frm_Main.child_Form
 {
     public partial class Animal : Form
+
     {
+        Form currentChildForm;
         public Animal()
         {
             InitializeComponent();
         }
-
+        public void OpenChildForm(Form a)
+        {
+            if (currentChildForm != null)
+            {
+                currentChildForm.Close();
+            }
+            currentChildForm = a;
+            currentChildForm.TopLevel = false;
+            currentChildForm.FormBorderStyle = FormBorderStyle.None;
+            currentChildForm.Dock = DockStyle.Fill;
+            panel1.Controls.Add(currentChildForm);
+            panel1.Tag = currentChildForm;
+            currentChildForm.BringToFront();
+            currentChildForm.Show();
+        }
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
@@ -34,8 +50,7 @@ namespace frm_Main.child_Form
 
         private void tìmKiếmToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Search_Animal search_Animal = new Search_Animal();
-            search_Animal.ShowDialog();
+            OpenChildForm(new Area());
         }
 
         private void pictureBox21_Click(object sender, EventArgs e)
@@ -45,8 +60,7 @@ namespace frm_Main.child_Form
 
         private void thêmToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Add_Animal add_Animal = new Add_Animal();
-            add_Animal.ShowDialog();
+            OpenChildForm(new Cagee());
         }
 
         private void groupBox2_Enter(object sender, EventArgs e)
@@ -56,38 +70,47 @@ namespace frm_Main.child_Form
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Cage_Details cage_Details = new Cage_Details();
-            cage_Details.ShowDialog();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Cage_Details cage_Details = new Cage_Details();
-            cage_Details.ShowDialog();
+            
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Cage_Details cage_Details = new Cage_Details();
-            cage_Details.ShowDialog();
+          
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            Cage_Details cage_Details = new Cage_Details();
-            cage_Details.ShowDialog();
+        
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Cage_Details cage_Details = new Cage_Details();
-            cage_Details.ShowDialog();
+            
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Cage_Details cage_Details = new Cage_Details();
-            cage_Details.ShowDialog();
+            
+        }
+
+        private void quảnLíThúToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new List_Animal());
+        }
+
+        private void quảnLíSựKiệnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Event());
+        }
+
+        private void trangChủToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (currentChildForm != null) {currentChildForm.Close();}
         }
     }
 }

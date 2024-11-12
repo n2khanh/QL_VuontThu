@@ -1,6 +1,6 @@
 ﻿namespace frm_Main.child_Form
 {
-    partial class Add_Animal
+    partial class AnimalDetails
     {
         /// <summary>
         /// Required designer variable.
@@ -28,17 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button3 = new System.Windows.Forms.Button();
-            this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.button4 = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.textBox12 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.textBox13 = new System.Windows.Forms.TextBox();
@@ -61,57 +51,27 @@
             this.label2 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.label9 = new System.Windows.Forms.Label();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(1072, 691);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(109, 88);
-            this.button3.TabIndex = 73;
-            this.button3.Text = "Thoát";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
-            // 
-            // groupBox2
-            // 
-            this.groupBox2.Controls.Add(this.button4);
-            this.groupBox2.Controls.Add(this.pictureBox1);
-            this.groupBox2.Location = new System.Drawing.Point(632, 12);
-            this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(549, 544);
-            this.groupBox2.TabIndex = 70;
-            this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Ảnh ";
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(452, 486);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(91, 38);
-            this.button4.TabIndex = 1;
-            this.button4.Text = "...";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(7, 22);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(536, 450);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.label9);
-            this.groupBox1.Controls.Add(this.comboBox1);
             this.groupBox1.Controls.Add(this.button6);
             this.groupBox1.Controls.Add(this.button5);
             this.groupBox1.Controls.Add(this.dateTimePicker2);
@@ -140,64 +100,14 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Location = new System.Drawing.Point(10, 12);
+            this.groupBox1.Enabled = false;
+            this.groupBox1.Location = new System.Drawing.Point(13, 13);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(615, 766);
-            this.groupBox1.TabIndex = 69;
+            this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Thêm ";
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(274, 660);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(95, 42);
-            this.button6.TabIndex = 68;
-            this.button6.Text = "Hủy";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(18, 660);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(95, 42);
-            this.button5.TabIndex = 67;
-            this.button5.Text = "Lưu";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
-            // 
-            // dateTimePicker2
-            // 
-            this.dateTimePicker2.Location = new System.Drawing.Point(432, 149);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(157, 22);
-            this.dateTimePicker2.TabIndex = 66;
-            // 
-            // richTextBox1
-            // 
-            this.richTextBox1.Location = new System.Drawing.Point(375, 70);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(214, 38);
-            this.richTextBox1.TabIndex = 65;
-            this.richTextBox1.Text = "";
-            // 
-            // dateTimePicker1
-            // 
-            this.dateTimePicker1.CalendarFont = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateTimePicker1.Location = new System.Drawing.Point(114, 495);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(157, 22);
-            this.dateTimePicker1.TabIndex = 64;
-            // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(114, 303);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(17, 16);
-            this.radioButton1.TabIndex = 63;
-            this.radioButton1.UseVisualStyleBackColor = true;
+            this.groupBox1.Text = "Chi tiết ";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // textBox12
             // 
@@ -267,7 +177,7 @@
             // 
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.Location = new System.Drawing.Point(275, 75);
+            this.label16.Location = new System.Drawing.Point(270, 73);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(94, 25);
             this.label16.TabIndex = 48;
@@ -401,57 +311,164 @@
             this.label1.TabIndex = 32;
             this.label1.Text = "Mã thú";
             // 
-            // comboBox1
+            // groupBox2
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(432, 422);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(157, 24);
-            this.comboBox1.TabIndex = 69;
+            this.groupBox2.Controls.Add(this.button4);
+            this.groupBox2.Controls.Add(this.pictureBox1);
+            this.groupBox2.Location = new System.Drawing.Point(635, 13);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(549, 544);
+            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "Ảnh ";
             // 
-            // label9
+            // button1
             // 
-            this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(270, 424);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(110, 25);
-            this.label9.TabIndex = 70;
-            this.label9.Text = "Mã chuồng";
+            this.button1.Location = new System.Drawing.Point(634, 627);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(109, 88);
+            this.button1.TabIndex = 64;
+            this.button1.Text = "Xóa";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Add_Animal
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(775, 627);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(109, 88);
+            this.button2.TabIndex = 65;
+            this.button2.Text = "Sửa";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(1075, 627);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(109, 88);
+            this.button3.TabIndex = 66;
+            this.button3.Text = "Thoát";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(452, 486);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(91, 38);
+            this.button4.TabIndex = 1;
+            this.button4.Text = "...";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(7, 22);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(536, 450);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(642, 762);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(72, 16);
+            this.label10.TabIndex = 67;
+            this.label10.Text = "Tình trạng :";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(720, 763);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(76, 16);
+            this.label17.TabIndex = 68;
+            this.label17.Text = "Bình thường";
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(114, 303);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(17, 16);
+            this.radioButton1.TabIndex = 63;
+            this.radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // dateTimePicker1
+            // 
+            this.dateTimePicker1.CalendarFont = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateTimePicker1.Location = new System.Drawing.Point(114, 495);
+            this.dateTimePicker1.Name = "dateTimePicker1";
+            this.dateTimePicker1.Size = new System.Drawing.Size(157, 22);
+            this.dateTimePicker1.TabIndex = 64;
+            this.dateTimePicker1.ValueChanged += new System.EventHandler(this.dateTimePicker1_ValueChanged);
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(375, 62);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(214, 38);
+            this.richTextBox1.TabIndex = 65;
+            this.richTextBox1.Text = "";
+            // 
+            // dateTimePicker2
+            // 
+            this.dateTimePicker2.Location = new System.Drawing.Point(432, 149);
+            this.dateTimePicker2.Name = "dateTimePicker2";
+            this.dateTimePicker2.Size = new System.Drawing.Size(157, 22);
+            this.dateTimePicker2.TabIndex = 66;
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(0, 660);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(95, 42);
+            this.button5.TabIndex = 67;
+            this.button5.Text = "Lưu";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(226, 660);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(95, 42);
+            this.button6.TabIndex = 68;
+            this.button6.Text = "Hủy";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // AnimalDetails
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1190, 791);
+            this.Controls.Add(this.label17);
+            this.Controls.Add(this.label10);
             this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
-            this.Name = "Add_Animal";
-            this.Text = "Add_Animal";
-            this.Load += new System.EventHandler(this.Add_Animal_Load);
-            this.groupBox2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Name = "AnimalDetails";
+            this.Text = "AnimalDetails";
+            this.Load += new System.EventHandler(this.AnimalDetails_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.ComboBox comboBox1;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
-        private System.Windows.Forms.RichTextBox richTextBox1;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
-        private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.TextBox textBox12;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox textBox13;
@@ -475,5 +492,18 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.DateTimePicker dateTimePicker2;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button5;
     }
 }

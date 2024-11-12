@@ -63,23 +63,47 @@
     <Compile Include="child_Form\Animal.Designer.cs">
       <DependentUpon>Animal.cs</DependentUpon>
     </Compile>
-    <Compile Include="child_Form\Animal_Details.cs">
+    <Compile Include="child_Form\AnimalDetails.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="child_Form\Animal_Details.Designer.cs">
-      <DependentUpon>Animal_Details.cs</DependentUpon>
+    <Compile Include="child_Form\AnimalDetails.Designer.cs">
+      <DependentUpon>AnimalDetails.cs</DependentUpon>
     </Compile>
-    <Compile Include="child_Form\Cage_Details.cs">
+    <Compile Include="child_Form\Area.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="child_Form\Cage_Details.Designer.cs">
-      <DependentUpon>Cage_Details.cs</DependentUpon>
+    <Compile Include="child_Form\Area.Designer.cs">
+      <DependentUpon>Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Cagee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Cagee.Designer.cs">
+      <DependentUpon>Cagee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Event.Designer.cs">
+      <DependentUpon>Event.cs</DependentUpon>
     </Compile>
     <Compile Include="child_Form\ForgotPassword.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="child_Form\ForgotPassword.Designer.cs">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="child_Form\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="child_Form\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
     <Compile Include="child_Form\Login.cs">
       <SubType>Form</SubType>
@@ -92,12 +116,6 @@
     </Compile>
     <Compile Include="child_Form\QuanLyNhanSu.Designer.cs">
       <DependentUpon>QuanLyNhanSu.cs</DependentUpon>
-    </Compile>
-    <Compile Include="child_Form\Search_Animal.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="child_Form\Search_Animal.Designer.cs">
-      <DependentUpon>Search_Animal.cs</DependentUpon>
     </Compile>
     <Compile Include="child_Form\SingUp.cs">
       <SubType>Form</SubType>
@@ -120,36 +138,42 @@
     <Compile Include="LOG\Modify.cs" />
     <Compile Include="LOG\TaiKhoan.cs" />
     <Compile Include="LOG\ProcessDataBase.cs" />
+    <Compile Include="Model\AnimalModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="child_Form\Add_Animal.resx">
       <DependentUpon>Add_Animal.cs</DependentUpon>
-      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Animal.resx">
       <DependentUpon>Animal.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="child_Form\Animal_Details.resx">
-      <DependentUpon>Animal_Details.cs</DependentUpon>
-      <SubType>Designer</SubType>
+    <EmbeddedResource Include="child_Form\AnimalDetails.resx">
+      <DependentUpon>AnimalDetails.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="child_Form\Cage_Details.resx">
-      <DependentUpon>Cage_Details.cs</DependentUpon>
-      <SubType>Designer</SubType>
+    <EmbeddedResource Include="child_Form\Area.resx">
+      <DependentUpon>Area.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Cagee.resx">
+      <DependentUpon>Cagee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Event.resx">
+      <DependentUpon>Event.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\ForgotPassword.resx">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="child_Form\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\QuanLyNhanSu.resx">
       <DependentUpon>QuanLyNhanSu.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="child_Form\Search_Animal.resx">
-      <DependentUpon>Search_Animal.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\SingUp.resx">

@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace frm_Main.child_Form
 {
-    public partial class Animal_Details : Form
+    public partial class Form1 : Form
     {
-        public Animal_Details()
+        public Form1()
         {
             InitializeComponent();
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
         }
     }
 }
