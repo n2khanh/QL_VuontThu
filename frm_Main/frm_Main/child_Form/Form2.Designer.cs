@@ -205,7 +205,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.groupBox1);
             this.Name = "List_Animal";
-            this.Text = "Form2";
+            this.Text = "Thú";
             this.Load += new System.EventHandler(this.List_Animal_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

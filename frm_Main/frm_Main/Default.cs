@@ -16,6 +16,7 @@ namespace frm_Main
     public partial class Default : Form
     {
         Form currentChildForm;
+        private bool isFormClosing = false;
         public Default()
         {
             InitializeComponent();
@@ -72,7 +73,12 @@ namespace frm_Main
         private void Default_FormClosing(object sender, FormClosingEventArgs e)
         {
             DialogResult result = MessageBox.Show("Bạn có muốn thoát ?", "Thông Báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (result == DialogResult.Yes) { Application.Exit(); }
+
+            // Nếu người dùng chọn "No", hủy sự kiện đóng form
+            if (result == DialogResult.No)
+            {
+                e.Cancel = true; // Hủy việc đóng form
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)

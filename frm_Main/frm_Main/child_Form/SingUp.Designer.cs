@@ -61,9 +61,9 @@ namespace frm_Main.child_Form
             this.groupBox1.Controls.Add(this.txtPasswordSingUp);
             this.groupBox1.Controls.Add(this.txtUserNameSingUp);
             this.groupBox1.Location = new System.Drawing.Point(383, 12);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(328, 412);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
@@ -73,7 +73,7 @@ namespace frm_Main.child_Form
             this.pictureBox1.ErrorImage = null;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(97, 11);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(132, 128);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -96,7 +96,7 @@ namespace frm_Main.child_Form
             this.txtEmailSingUp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.txtEmailSingUp.Location = new System.Drawing.Point(44, 306);
-            this.txtEmailSingUp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtEmailSingUp.Margin = new System.Windows.Forms.Padding(4);
             this.txtEmailSingUp.Name = "txtEmailSingUp";
             this.txtEmailSingUp.Size = new System.Drawing.Size(239, 22);
             this.txtEmailSingUp.TabIndex = 15;
@@ -108,16 +108,16 @@ namespace frm_Main.child_Form
             this.label1.Location = new System.Drawing.Point(44, 239);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(132, 20);
+            this.label1.Size = new System.Drawing.Size(140, 20);
             this.label1.TabIndex = 14;
-            this.label1.Text = "Confrim Password";
+            this.label1.Text = "Xác nhận mật khẩu";
             // 
             // txtConfirmPasswordSingUp
             // 
             this.txtConfirmPasswordSingUp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.txtConfirmPasswordSingUp.Location = new System.Drawing.Point(44, 258);
-            this.txtConfirmPasswordSingUp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtConfirmPasswordSingUp.Margin = new System.Windows.Forms.Padding(4);
             this.txtConfirmPasswordSingUp.Name = "txtConfirmPasswordSingUp";
             this.txtConfirmPasswordSingUp.Size = new System.Drawing.Size(239, 22);
             this.txtConfirmPasswordSingUp.TabIndex = 13;
@@ -128,11 +128,11 @@ namespace frm_Main.child_Form
             this.button4.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button4.Location = new System.Drawing.Point(115, 353);
-            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(107, 37);
             this.button4.TabIndex = 12;
-            this.button4.Text = "Sign Up";
+            this.button4.Text = "Đăng kí";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -143,9 +143,9 @@ namespace frm_Main.child_Form
             this.label4.Location = new System.Drawing.Point(44, 188);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(73, 20);
+            this.label4.Size = new System.Drawing.Size(74, 20);
             this.label4.TabIndex = 6;
-            this.label4.Text = "Password";
+            this.label4.Text = "Mật khẩu";
             // 
             // label3
             // 
@@ -154,14 +154,14 @@ namespace frm_Main.child_Form
             this.label3.Location = new System.Drawing.Point(44, 142);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(78, 20);
+            this.label3.Size = new System.Drawing.Size(117, 20);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Username";
+            this.label3.Text = "Tên người dùng";
             // 
             // txtPasswordSingUp
             // 
             this.txtPasswordSingUp.Location = new System.Drawing.Point(44, 208);
-            this.txtPasswordSingUp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtPasswordSingUp.Margin = new System.Windows.Forms.Padding(4);
             this.txtPasswordSingUp.Name = "txtPasswordSingUp";
             this.txtPasswordSingUp.Size = new System.Drawing.Size(239, 22);
             this.txtPasswordSingUp.TabIndex = 3;
@@ -171,7 +171,7 @@ namespace frm_Main.child_Form
             this.txtUserNameSingUp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.txtUserNameSingUp.Location = new System.Drawing.Point(44, 161);
-            this.txtUserNameSingUp.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtUserNameSingUp.Margin = new System.Windows.Forms.Padding(4);
             this.txtUserNameSingUp.Name = "txtUserNameSingUp";
             this.txtUserNameSingUp.Size = new System.Drawing.Size(239, 22);
             this.txtUserNameSingUp.TabIndex = 18;
@@ -182,10 +182,10 @@ namespace frm_Main.child_Form
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(724, 438);
             this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "SingUp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "SingUp";
+            this.Text = "Đăng kí";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

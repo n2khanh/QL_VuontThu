@@ -93,12 +93,6 @@
     <Compile Include="child_Form\ForgotPassword.Designer.cs">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
     </Compile>
-    <Compile Include="child_Form\Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="child_Form\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="child_Form\Form2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -162,9 +156,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\ForgotPassword.resx">
       <DependentUpon>ForgotPassword.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="child_Form\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="child_Form\Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>

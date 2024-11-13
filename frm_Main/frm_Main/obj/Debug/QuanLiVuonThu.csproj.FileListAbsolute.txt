@@ -1,111 +1,22 @@
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe.config
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.AssemblyReference.cache
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Add_Animal.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal.resources
-C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal_Details.resources
-C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cage_Details.resources
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.AnimalDetails.resources
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Area.resources
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cagee.resources
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Event.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.ForgotPassword.resources
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.List_Animal.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Login.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.QuanLyNhanSu.resources
-C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Search_Animal.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.GenerateResource.cache
-C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe.config
-C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe
-C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.CoreCompileInputs.cache
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.exe
 C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.AssemblyReference.cache
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Add_Animal.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal_Details.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cage_Details.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.ForgotPassword.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Login.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.QuanLyNhanSu.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Search_Animal.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.GenerateResource.cache
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.CoreCompileInputs.cache
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.exe
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe.config
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe
-C:\Users\ADMIN\Music\QL vườn thú\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe.config
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.AssemblyReference.cache
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Add_Animal.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal_Details.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cage_Details.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.ForgotPassword.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Login.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.QuanLyNhanSu.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Search_Animal.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.GenerateResource.cache
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.CoreCompileInputs.cache
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.exe
-C:\Users\Khanh\Documents\Zalo Received Files\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.exe.config
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.exe
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\bin\Debug\Bunifu.Licensing.dll
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.AssemblyReference.cache
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.ForgotPassword.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Login.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.QuanLyNhanSu.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.GenerateResource.cache
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.CoreCompileInputs.cache
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\QuanLiVu.F87A503A.Up2Date
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.exe
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Area.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cagee.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Form1.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.List_Animal.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.AnimalDetails.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Add_Animal.resources
-C:\Users\Khanh\Documents\GitHub\Project1\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Event.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.AssemblyReference.cache
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Add_Animal.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Animal.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.AnimalDetails.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Area.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Cagee.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Event.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.ForgotPassword.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Form1.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.List_Animal.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Login.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.QuanLyNhanSu.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.SingUp.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.child_Form.Warehouse.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Default.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.Properties.Resources.resources
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.GenerateResource.cache
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVuonThu.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.exe
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\frm_Main.pdb
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe.config
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.exe
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.pdb
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\bin\Debug\Bunifu.Licensing.dll
-C:\Users\User\Documents\GitHub\QL_VuontThu\frm_Main\frm_Main\obj\Debug\QuanLiVu.F87A503A.Up2Date
+C:\Users\phamt\Downloads\QL_VuontThu\frm_Main\frm_Main\bin\Debug\frm_Main.pdb

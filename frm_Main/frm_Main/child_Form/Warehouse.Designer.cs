@@ -506,7 +506,7 @@
             this.Controls.Add(this.groupBox2);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Warehouse";
-            this.Text = "WareHouse";
+            this.Text = "Quản lí kho";
             this.Load += new System.EventHandler(this.Warehouse_Load);
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();

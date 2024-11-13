@@ -99,26 +99,26 @@ namespace frm_Main.child_Form
             this.btSingUpLogin.BackColor = System.Drawing.Color.Green;
             this.btSingUpLogin.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSingUpLogin.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.btSingUpLogin.Location = new System.Drawing.Point(179, 235);
+            this.btSingUpLogin.Location = new System.Drawing.Point(170, 235);
             this.btSingUpLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btSingUpLogin.Name = "btSingUpLogin";
-            this.btSingUpLogin.Size = new System.Drawing.Size(107, 37);
+            this.btSingUpLogin.Size = new System.Drawing.Size(135, 37);
             this.btSingUpLogin.TabIndex = 12;
-            this.btSingUpLogin.Text = "Sign Up";
+            this.btSingUpLogin.Text = "Đăng kí";
             this.btSingUpLogin.UseVisualStyleBackColor = false;
             this.btSingUpLogin.Click += new System.EventHandler(this.btSingUpLogin_Click);
             // 
             // lLbForgot
             // 
             this.lLbForgot.AutoSize = true;
-            this.lLbForgot.LinkColor = System.Drawing.Color.Black;
+            this.lLbForgot.LinkColor = System.Drawing.Color.Blue;
             this.lLbForgot.Location = new System.Drawing.Point(101, 297);
             this.lLbForgot.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lLbForgot.Name = "lLbForgot";
-            this.lLbForgot.Size = new System.Drawing.Size(116, 16);
+            this.lLbForgot.Size = new System.Drawing.Size(96, 16);
             this.lLbForgot.TabIndex = 9;
             this.lLbForgot.TabStop = true;
-            this.lLbForgot.Text = "Forgot Password?";
+            this.lLbForgot.Text = "Quên mật khẩu";
             this.lLbForgot.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.lLbForgot_LinkClicked);
             // 
             // label4
@@ -128,9 +128,9 @@ namespace frm_Main.child_Form
             this.label4.Location = new System.Drawing.Point(44, 162);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(73, 20);
+            this.label4.Size = new System.Drawing.Size(74, 20);
             this.label4.TabIndex = 6;
-            this.label4.Text = "Password";
+            this.label4.Text = "Mật khẩu";
             // 
             // label3
             // 
@@ -139,21 +139,21 @@ namespace frm_Main.child_Form
             this.label3.Location = new System.Drawing.Point(45, 105);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(78, 20);
+            this.label3.Size = new System.Drawing.Size(117, 20);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Username";
+            this.label3.Text = "Tên người dùng";
             // 
             // btSingInLogin
             // 
             this.btSingInLogin.BackColor = System.Drawing.Color.Green;
             this.btSingInLogin.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btSingInLogin.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.btSingInLogin.Location = new System.Drawing.Point(45, 235);
+            this.btSingInLogin.Location = new System.Drawing.Point(27, 235);
             this.btSingInLogin.Margin = new System.Windows.Forms.Padding(4);
             this.btSingInLogin.Name = "btSingInLogin";
-            this.btSingInLogin.Size = new System.Drawing.Size(107, 37);
+            this.btSingInLogin.Size = new System.Drawing.Size(135, 37);
             this.btSingInLogin.TabIndex = 4;
-            this.btSingInLogin.Text = "Sign In";
+            this.btSingInLogin.Text = "Đăng nhập";
             this.btSingInLogin.UseVisualStyleBackColor = false;
             this.btSingInLogin.Click += new System.EventHandler(this.btSingInLogin_Click);
             // 
@@ -180,12 +180,12 @@ namespace frm_Main.child_Form
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI Symbol", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(116, 41);
+            this.label2.Location = new System.Drawing.Point(69, 40);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(97, 41);
+            this.label2.Size = new System.Drawing.Size(175, 41);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Login";
+            this.label2.Text = "Đăng nhập";
             // 
             // pictureBox1
             // 
@@ -207,7 +207,7 @@ namespace frm_Main.child_Form
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Login";
+            this.Text = "Đăng nhập";
             this.Load += new System.EventHandler(this.Login_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

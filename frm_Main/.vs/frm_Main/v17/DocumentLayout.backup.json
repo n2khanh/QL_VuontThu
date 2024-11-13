@@ -1,126 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\",
+  "WorkspaceRootPath": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\animaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\animaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\user\\documents\\github\\ql_vuontthu\\frm_main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\user\\documents\\github\\ql_vuontthu\\frm_main\\frm_main\\resources\\exit_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\resources\\exit_icon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\resources\\icon.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\resources\\icon.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\animaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\animaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\cagee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\cagee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\cagee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\cagee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\add_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\add_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\add_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\add_animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\model\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\model\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\quanlynhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,110 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AnimalModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Model\\AnimalModel.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Model\\AnimalModel.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Model\\AnimalModel.cs",
-              "RelativeToolTip": "frm_Main\\Model\\AnimalModel.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAIAwwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:01:30.473Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Area.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Area.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Area.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Area.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Area.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T00:37:32.807Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Cagee.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Cagee.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Cagee.cs",
-              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Cagee.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Cagee.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T01:44:32.533Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Add_Animal.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Add_Animal.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Add_Animal.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Add_Animal.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\Add_Animal.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA5wEwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:54:02.768Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Form2.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Form2.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Form2.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\Form2.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA/wGkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:10:52.644Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Program.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Program.cs",
-              "RelativeToolTip": "frm_Main\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:50:35.444Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Event.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Event.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Event.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\Event.cs",
-              "ViewState": "AgIAAPEAAAAAAAAAAAAAANgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T14:46:45.287Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "exit_icon.png",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Resources\\exit_icon.png",
-              "RelativeDocumentMoniker": "frm_Main\\Resources\\exit_icon.png",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Resources\\exit_icon.png",
-              "RelativeToolTip": "frm_Main\\Resources\\exit_icon.png",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-13T01:30:40.811Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -248,250 +46,47 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
+              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
+              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
+              "RelativeToolTip": "frm_Main\\Default.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:58:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Default.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
               "RelativeDocumentMoniker": "frm_Main\\Default.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs [Design]",
               "RelativeToolTip": "frm_Main\\Default.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:37:33.546Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Form1.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Form1.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Form1.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:37:59.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Form2.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Form2.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Form2.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T07:58:28.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AnimalDetails.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\AnimalDetails.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\AnimalDetails.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\AnimalDetails.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\AnimalDetails.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T08:42:18.544Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-13T02:58:21.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Animal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Animal.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Animal.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Animal.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Animal.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:00:08.589Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ForgotPassword.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\ForgotPassword.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\ForgotPassword.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\ForgotPassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:13:06.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Default.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeToolTip": "frm_Main\\Default.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAADwv2MAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T10:22:26.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Icon.jpg",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Resources\\Icon.jpg",
-              "RelativeDocumentMoniker": "frm_Main\\Resources\\Icon.jpg",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\Resources\\Icon.jpg",
-              "RelativeToolTip": "frm_Main\\Resources\\Icon.jpg",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-12T18:03:26.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "ProcessDataBase.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
               "RelativeDocumentMoniker": "frm_Main\\LOG\\ProcessDataBase.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
+              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
               "RelativeToolTip": "frm_Main\\LOG\\ProcessDataBase.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAACKAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T10:33:50.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Login.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Login.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Login.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:10:47.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SingUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\SingUp.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\SingUp.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\SingUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T18:11:42.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Add_Animal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Add_Animal.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Add_Animal.cs",
-              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Add_Animal.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Add_Animal.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:49:58.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Event.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Event.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Event.cs",
-              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Event.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Event.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:44:21.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Cagee.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Cagee.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Cagee.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Cagee.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\Cagee.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T02:39:31.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AnimalDetails.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\AnimalDetails.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\AnimalDetails.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\AnimalDetails.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\AnimalDetails.cs",
-              "ViewState": "AgIAAJsAAAAAAAAAAAAswLMAAAAzAQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:01:33.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Area.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Area.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Area.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Area.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\Area.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAIAwwHgAAACqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T01:01:46.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Animal.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Animal.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Animal.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\Animal.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwHAAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:00:17.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "QuanLyNhanSu.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAwwB8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:19:13.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "QuanLyNhanSu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "RelativeToolTip": "frm_Main\\child_Form\\QuanLyNhanSu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:19:06.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "QuanLyNhanSu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\QuanLyNhanSu.cs",
-              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\QuanLyNhanSu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:14:41.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 4,
               "Title": "Warehouse.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -499,12 +94,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 3,
               "Title": "Warehouse.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
-              "ToolTip": "C:\\Users\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Khanh\\Documents\\GitHub\\Project1\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs [Design]",
+              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs [Design]",
+              "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T07:03:34.461Z"
             }

@@ -10,7 +10,7 @@ namespace frm_Main
 {
     public class ProcessDataBase
     {
-        static string strConnect = "Data Source=DESKTOP-A3NO6EJ\\SQLEXPRESS;Initial Catalog=QLVuonThu;Integrated Security=True;TrustServerCertificate=True";
+        static string strConnect = "Data Source=DESKTOP-P86AVM7\\SQLEXPRESS;Initial Catalog=QLVuonThu;Integrated Security=True;TrustServerCertificate=True";
         //static string strConnect = "Data Source=localhost;Initial Catalog=QLVuonThu;Integrated Security=True;TrustServerCertificate=True";
         SqlConnection sqlConnect = null;
         //Hàm mở kết nối CSDL

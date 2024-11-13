@@ -126,7 +126,7 @@ namespace frm_Main.child_Form
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(32, 12);
+            this.label1.Location = new System.Drawing.Point(45, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(125, 32);
             this.label1.TabIndex = 0;
@@ -374,7 +374,7 @@ namespace frm_Main.child_Form
             // 
             // richTextBox2
             // 
-            this.richTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox2.Location = new System.Drawing.Point(0, 11);
             this.richTextBox2.Name = "richTextBox2";
             this.richTextBox2.Size = new System.Drawing.Size(881, 29);
@@ -404,7 +404,7 @@ namespace frm_Main.child_Form
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(122, 46);
             this.button4.TabIndex = 13;
-            this.button4.Text = "ADD";
+            this.button4.Text = "THÊM ";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -417,7 +417,7 @@ namespace frm_Main.child_Form
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(122, 46);
             this.button2.TabIndex = 14;
-            this.button2.Text = "DELETE";
+            this.button2.Text = "XÓA";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -430,7 +430,7 @@ namespace frm_Main.child_Form
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(122, 46);
             this.button3.TabIndex = 15;
-            this.button3.Text = "EDIT";
+            this.button3.Text = "SỬA";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -493,7 +493,7 @@ namespace frm_Main.child_Form
             this.pictureBox4.BackColor = System.Drawing.Color.LightGray;
             this.pictureBox4.ErrorImage = null;
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(13, 40);
+            this.pictureBox4.Location = new System.Drawing.Point(38, 44);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(141, 147);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -557,10 +557,11 @@ namespace frm_Main.child_Form
             // 
             // button1
             // 
+            this.button1.AutoSize = true;
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(881, 10);
+            this.button1.Location = new System.Drawing.Point(875, 1);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(41, 31);
+            this.button1.Size = new System.Drawing.Size(47, 47);
             this.button1.TabIndex = 8;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -586,7 +587,7 @@ namespace frm_Main.child_Form
             this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Name = "QuanLyNhanSu";
-            this.Text = "Phone";
+            this.Text = "Quản lí nhân viên";
             this.Load += new System.EventHandler(this.QuanLyNhanSu_Load_2);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
