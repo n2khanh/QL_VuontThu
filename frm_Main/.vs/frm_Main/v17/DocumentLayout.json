@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\log\\processdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\default.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|c:\\users\\phamt\\downloads\\ql_vuontthu\\frm_main\\frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1B14FF-2249-4504-8FB7-E2DE9E4445DA}|frm_Main\\QuanLiVuonThu.csproj|solutionrelative:frm_main\\child_form\\singup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,56 +50,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "SingUp.cs",
+              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
+              "RelativeDocumentMoniker": "frm_Main\\child_Form\\SingUp.cs",
+              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\SingUp.cs",
+              "RelativeToolTip": "frm_Main\\child_Form\\SingUp.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:43:52.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Login.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Login.cs",
               "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Login.cs",
               "RelativeToolTip": "frm_Main\\child_Form\\Login.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T03:20:34.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Login.cs",
-              "RelativeDocumentMoniker": "frm_Main\\child_Form\\Login.cs",
-              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Login.cs [Design]",
-              "RelativeToolTip": "frm_Main\\child_Form\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T03:20:33.11Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Default.cs",
               "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
               "RelativeDocumentMoniker": "frm_Main\\Default.cs",
               "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
               "RelativeToolTip": "frm_Main\\Default.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAUwEwAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA0wEwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T02:58:23.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs",
-              "RelativeDocumentMoniker": "frm_Main\\Default.cs",
-              "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\Default.cs [Design]",
-              "RelativeToolTip": "frm_Main\\Default.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T02:58:21.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProcessDataBase.cs",
               "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\LOG\\ProcessDataBase.cs",
               "RelativeDocumentMoniker": "frm_Main\\LOG\\ProcessDataBase.cs",
@@ -111,11 +97,12 @@
               "RelativeToolTip": "frm_Main\\LOG\\ProcessDataBase.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T10:33:50.332Z"
+              "WhenOpened": "2024-11-11T10:33:50.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
@@ -123,18 +110,20 @@
               "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:04:31.465Z"
+              "WhenOpened": "2024-11-11T07:04:31.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Warehouse.cs [Design]",
               "DocumentMoniker": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs",
               "RelativeDocumentMoniker": "frm_Main\\child_Form\\Warehouse.cs",
               "ToolTip": "C:\\Users\\phamt\\Downloads\\QL_VuontThu\\frm_Main\\frm_Main\\child_Form\\Warehouse.cs [Design]",
               "RelativeToolTip": "frm_Main\\child_Form\\Warehouse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:03:34.461Z"
+              "WhenOpened": "2024-11-11T07:03:34.461Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

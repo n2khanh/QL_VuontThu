@@ -186,6 +186,7 @@ namespace frm_Main.child_Form
             this.Name = "SingUp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng kí";
+            this.Load += new System.EventHandler(this.SingUp_Load_1);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

@@ -57,7 +57,7 @@ namespace frm_Main.child_Form
             else if (matkhau.Trim() == "") { MessageBox.Show("Vui lòng nhập mật khẩu!"); }
             else
             {
-                string query = "Select * from TaiKhoan where TenTaiKhoan = '" + tentk + "' and MatKhau = '" + matkhau + "'";
+                string query = "Select * from Account where UserName = '" + tentk + "' and Password = '" + matkhau + "'";
                 if (modify.TaiKhoans(query).Count != 0)
                 {
                     MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -68,6 +68,8 @@ namespace frm_Main.child_Form
                 else
                 {
                     MessageBox.Show("Tên tài khoản hoặc mật khấu không chính xác!" ,"Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    txtUserNameLogin.Text = "";
+                    txtPasswordLogin.Text="";
                 }
             }
 
